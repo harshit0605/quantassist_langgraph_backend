@@ -1,0 +1,9 @@
+{
+  "dockerfile_lines": [],
+  "graphs": {
+    "stock_agent": "./stock_market_agent/stock_agent.py:workflow"
+  },
+  "python_version": "3.12",
+  "dependencies": ["./stock_market_agent"],
+  "env": "./.env"
+}

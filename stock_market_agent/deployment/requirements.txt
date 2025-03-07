@@ -1,0 +1,11 @@
+langgraph
+langchain-core
+langchain-community
+langchain-openai
+trustcall
+yfinance
+numpy
+scipy
+pandas
+python-dotenv
+vaderSentiment
