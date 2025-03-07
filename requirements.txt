@@ -10,4 +10,6 @@ pandas
 python-dotenv
 vaderSentiment
 Pillow
-
+fastapi
+copilotkit
+uvicorn
