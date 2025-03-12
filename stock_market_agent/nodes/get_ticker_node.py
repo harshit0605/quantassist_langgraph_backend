@@ -5,23 +5,25 @@ import os
 
 def get_ticker_node(state):
     from stock_market_agent.tools.extract_stock_name import CompanyTickerTool
+    from stock_market_agent.models.schemas import StockTicker
+    
     print("...................In ticker node..................")
     # user_query = state["query"]
     print(state["messages"][-1])
     user_query = state["messages"][-1].content
-    tickers = CompanyTickerTool().run(user_query)
+    response = CompanyTickerTool().run(user_query)
 
-    # company_name = "Apple"
-    
-    # # Call the symbol search function
-    # ticker = search_symbol(company_name)
-
-    if "error" in tickers:
+    if "error" in response:
         # Handle the case when the ticker is not found
         return {"error": "Ticker symbol could not be found for the given company name."}
 
-    return {'ticker' : tickers.stock_names[0].dict()}
+    # Create a proper StockTicker object
+    if hasattr(response, 'stock_names') and len(response.stock_names) > 0:
+        stock = response.stock_names[0]
+        ticker = StockTicker(companyName=stock.company_name, tickerId=stock.ticker_id)
+        return {'ticker': ticker}
+    else:
+        return {"error": "No stock information found in the response."}
 
 if __name__ == "__main__":
     print(get_ticker_node({"query" : "Get me the latest financial statements for Apple and Microsoft"}))
-    
