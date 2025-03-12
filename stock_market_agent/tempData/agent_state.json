@@ -1,0 +1,134 @@
+{
+    "stock_price": "226.8000",
+    "news_sentiment": {
+        "company": "Apple",
+        "sentiment": "Positive",
+        "average_score": 0.68
+    },
+    "indicators_data": {
+        "P/E Ratio": "24.94",
+        "EPS": "2.43",
+        "Debt-to-Equity": 4.893856669962599,
+        "Current Ratio": null,
+        "ROE": "0.362",
+        "Profit Margin": 0.5353339787028074,
+        "Short-term MA": "167.3600",
+        "Long-term MA": "167.3600",
+        "Average Volume": "2600967",
+        "Current Volume": "2600967",
+        "Operating Cash Flow": "110543000000",
+        "Free Cash Flow": "99584000000",
+        "Cash Flow from Investing": "3705000000",
+        "Cash Flow from Financing": "-108488000000",
+        "Net Change in Cash": "5760000000",
+        "Bollinger Mean": 224.69,
+        "Bollinger Upper": 232.91273433840593,
+        "Bollinger Lower": 216.46726566159407,
+        "MACD Line": 46.25596153846149,
+        "Signal Line": 29.771566951566918,
+        "MACD Histogram": 16.484394586894574,
+        "RSI": 56.89974357387407,
+        "Price Trend": 0.45867532467532474,
+        "Volatility": 4.096052189293367,
+        "Support Level": 216.32,
+        "Resistance Level": 233.0,
+        "Volume Trend": "increasing",
+        "Price Momentum": "positive",
+        "Average Price": 224.50571428571428,
+        "stock_price": "226.8000"
+    },
+    "historical_data": "date,price,volume\n2024-09-06,220.82,48423000\n2024-09-09,220.91,67180000\n2024-09-10,220.11,51591000\n2024-09-11,222.66,44587100\n2024-09-12,222.77,37498200\n2024-09-13,222.50,36766600\n2024-09-16,216.32,59357400\n2024-09-17,216.79,45519300\n2024-09-18,220.69,59894900\n2024-09-19,228.87,66781300\n2024-09-20,228.20,318679900\n2024-09-23,226.47,54146000\n2024-09-24,227.37,43556100\n2024-09-25,226.37,42308700\n2024-09-26,227.52,36636700\n2024-09-27,227.79,34026000\n2024-09-30,233.00,54541900\n2024-10-01,226.21,63285000\n2024-10-02,226.78,32880600\n2024-10-03,225.67,34044200\n2024-10-04,226.80,37245100",
+    "collected_data": {
+        "stock_price": "226.8000",
+        "news_sentiment": {
+            "company": "Apple",
+            "sentiment": "Positive",
+            "average_score": 0.68
+        },
+        "indicators_data": {
+            "P/E Ratio": "24.94",
+            "EPS": "2.43",
+            "Debt-to-Equity": 4.893856669962599,
+            "Current Ratio": null,
+            "ROE": "0.362",
+            "Profit Margin": 0.5353339787028074,
+            "Short-term MA": "167.3600",
+            "Long-term MA": "167.3600",
+            "Average Volume": "2600967",
+            "Current Volume": "2600967",
+            "Operating Cash Flow": "110543000000",
+            "Free Cash Flow": "99584000000",
+            "Cash Flow from Investing": "3705000000",
+            "Cash Flow from Financing": "-108488000000",
+            "Net Change in Cash": "5760000000",
+            "Bollinger Mean": 224.69,
+            "Bollinger Upper": 232.91273433840593,
+            "Bollinger Lower": 216.46726566159407,
+            "MACD Line": 46.25596153846149,
+            "Signal Line": 29.771566951566918,
+            "MACD Histogram": 16.484394586894574,
+            "RSI": 56.89974357387407,
+            "Price Trend": 0.45867532467532474,
+            "Volatility": 4.096052189293367,
+            "Support Level": 216.32,
+            "Resistance Level": 233.0,
+            "Volume Trend": "increasing",
+            "Price Momentum": "positive",
+            "Average Price": 224.50571428571428,
+            "stock_price": "226.8000"
+        }
+    },
+    "analyses": [
+        {
+            "agent": "aggressive_growth_seeker",
+            "analysis": {
+                "decision": "Hold",
+                "confidence": 0.6,
+                "reasoning": "Given the priority on capital preservation and a low risk tolerance, the current financial position is not urgent enough to trigger a buy or sell action. Despite positive cash flows and a positive price trend, high v olatility and a low profit margin introduce caution. The P/E ratio and moving averages suggest neutrality, aligned more closely with a 'Hold' strategy. Current price stability near the support level, consistent dividends, and historical stability support holding rather than making a hasty decision."
+            }
+        },
+        {
+            "agent": "conservative_investor",
+            "analysis": {
+                "decision": "Hold",
+                "confidence": 0.6,
+                "reasoning": "Given the priority on capital preservation and a low risk tolerance, the current financial position is not urgent enough to trigger a buy or sell action. Despite positive cash flows and a positive price trend, high v olatility and a low profit margin introduce caution. The P/E ratio and moving averages suggest neutrality, aligned more closely with a 'Hold' strategy. Current price stability near the support level, consistent dividends, and historical stability support holding rather than making a hasty decision."
+            }
+        }
+    ],
+    "combined_weighted_analysis": "{\n  \"final_recommendation\": {\n    \"decision\": \"HOLD\",\n    \"confidence\": 1.0\n  },\n  \"decision_breakdown\": {\n    \"Buy\": 0.0,\n    \"Hold\": 1.0,\n    \"Sell\": 0.0\n  },\n  \"market_analysis\": {\n    \"total_confidence\": 0.6,\n    \"agent_weights\": {\n      \"conservative_investor\": 0.5,\n      \"aggressive_growth_seeker\": 0.5\n    }\n  },\n  \"detailed_analyses\": [\n    {\n      \"agent\": \"aggressive_growth_seeker\",\n      \"decision\": \"HOLD\",\n      \"confidence\": 0.6,\n      \"weight\": 0.5,\n      \"weighted_confidence\": 0.3,\n      \"reasoning\": \"Given the priority on capital preservation and a low risk tolerance, the current financial position is not urgent enough to trigger a buy or sell action. Despite positive cash flows and a positive price trend, high v olatility and a low profit margin introduce caution. The P/E ratio and moving averages suggest neutrality, aligned more closely with a 'Hold' strategy. Current price stability near the support level, consistent dividends, and historical stability support holding rather than making a hasty decision.\"\n    },\n    {\n      \"agent\": \"conservative_investor\",\n      \"decision\": \"HOLD\",\n      \"confidence\": 0.6,\n      \"weight\": 0.5,\n      \"weighted_confidence\": 0.3,\n      \"reasoning\": \"Given the priority on capital preservation and a low risk tolerance, the current financial position is not urgent enough to trigger a buy or sell action. Despite positive cash flows and a positive price trend, high v olatility and a low profit margin introduce caution. The P/E ratio and moving averages suggest neutrality, aligned more closely with a 'Hold' strategy. Current price stability near the support level, consistent dividends, and historical stability support holding rather than making a hasty decision.\"\n    }\n  ]\n}",
+    "market_conditions": {
+        "volatility": "medium",
+        "trend": "bullish",
+        "interest_rates": "rising",
+        "economic_outlook": "stable"
+    },
+    "final_prediction": {
+        "final_analysis": {
+            "decision": "Hold",
+            "confidence": 0.75,
+            "reasoning": "This is a dummy reasoning for testing purposes."
+        },
+        "additional_insights": "These are additional insights for testing."
+    },
+    "rule_results": {
+        "Buy": {
+            "score": 0.49,
+            "reasoning": "Rule: trend_rule\nMetric: Price Trend: 0.45867532467532474\nCondition: Positive price trend of 0.45867532467532474.\nConfidence: 1.0\n\n\nRule: support_resistance_rule\nMetric: Support Level: 216.32, Resistance Level: 233.0\nCondition: Current price (226.8) is near support level (216.32).\nConfidence: 0.8\n\n\nRule: sentiment_rule\nMetric: sentiment: Positive\nCondition: Positive sentiment with an average score of 0.68.\nConfidence: 1.0\n\n\nRule: operating_cash_flow_rule\nMetric: Operating Cash Flow: 110543000000\nCondition: Positive operating cash flow of 110543000000.0.\nConfidence: 0.8\n\n\nRule: free_cash_flow_rule\nMetric: Free Cash Flow: 99584000000\nCondition: Positive free cash flow of 99584000000.0.\nConfidence: 0.8\n\n\nRule: net_change_in_cash_rule\nMetric: Net Change in Cash: 5760000000\nCondition: Positive net change in cash (5760000000.0).\nConfidence: 0.7\n"
+        },
+        "Sell": {
+            "score": 0.21,
+            "reasoning": "Rule: profit_margin_rule\nMetric: Profit Margin: 0.5353339787028074\nCondition: Low profit margin of 0.5353339787028074%.\nConfidence: 0.8\n\n\nRule: volatility_rule\nMetric: Volatility: 4.096052189293367\nCondition: High volatility of 4.096052189293367.\nConfidence: 0.8\n\n\nRule: cash_flow_from_investing_rule\nMetric: Cash Flow from Investing: 3705000000\nCondition: Positive cash flow from investing (3705000000.0), indicating divestment of assets.\nConfidence: 0.6\n\n\nRule: cash_flow_from_financing_rule\nMetric: Cash Flow from Financing: -108488000000\nCondition: Negative cash flow from financing (-108488000000.0), indicating paying off debt.\nConfidence: 0.6\n"
+        },
+        "Hold": {
+            "score": 0.3,
+            "reasoning": "Rule: pe_ratio_rule\nMetric: P/E Ratio: 24.94\nCondition: P/E Ratio of 24.94 is within normal range.\nConfidence: 0.5\n\n\nRule: moving_average_rule\nMetric: Short-term MA: 167.3600, Long-term MA: 167.3600\nCondition: Moving Averages are neutral.\nConfidence: 0.5\n\n\nRule: volume_spike_rule\nMetric: Current Volume: 2600967, Average Volume: 2600967\nCondition: Normal trading volume (Current: 2600967.0, Average: 2600967.0).\nConfidence: 0.3\n\n\nRule: current_price_rule\nMetric: Average Price: 224.50571428571428\nCondition: Current price (226.8) is close to average price (224.50571428571428).\nConfidence: 0.5\n"
+        },
+        "recommendation": {
+            "action": "Hold",
+            "confidence": 0.3,
+            "threshold_used": 0.5
+        }
+    },
+    "error": "No analyses provided"
+}

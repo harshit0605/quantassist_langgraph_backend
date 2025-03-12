@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 917,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "AAPL earnings call on October 31 will include early iPhone 16 sales",
+            "description": "The AAPL earnings call for Q4 2024 has been scheduled for October 31, and will give our first official hint about early iPhone 16 sales.\n\n\n\nThe fiscal quarter covers July to September. Pre-orders for the new iPhone models opened on September 13, with the phon\u2026",
+            "url": "https://9to5mac.com/2024/10/04/aapl-earnings-call-on-october-31-will-include-early-iphone-16-sales/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/AAPL-earnings-call-on-October-31-will-include-early-iPhone-16-sales.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-10-04T11:09:43Z",
+            "content": "The AAPL earnings call for Q4 2024 has been scheduled for October 31, and will give our first official hint about early iPhone 16 sales.\r\nThe fiscal quarter covers July to September. Pre-orders for t\u2026 [+2035 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Keith Speights, The Motley Fool",
+            "title": "What's the Best \"Magnificent Seven\" Stock to Buy With the Fed Cutting Rates?",
+            "description": "The Federal Reserve's moves are magnificent for all seven of these giants but are better for some than others.",
+            "url": "https://finance.yahoo.com/news/whats-best-magnificent-seven-stock-094300966.html/",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-10-04T09:43:00Z",
+            "content": "Interest rates are at long last coming down as the Federal Reserve announced a significant 0.5% rate cut in September. More reductions in the interest rate are likely on the way.\r\nLower rates are usu\u2026 [+5563 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Walkner Condon Financial Advisors LLC Has $12.07 Million Holdings in Apple Inc. (NASDAQ:AAPL)",
+            "description": "Walkner Condon Financial Advisors LLC lowered its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.7% during the second quarter, according to the company in its most recent Form 13F filing with the SEC. The fund owned 57,317 shares of the iPhone maker\u2019s s\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/04/walkner-condon-financial-advisors-llc-has-12-07-million-holdings-in-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-04T08:40:56Z",
+            "content": "Walkner Condon Financial Advisors LLC lowered its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.7% during the second quarter, according to the company in its most recent Form 13F filing with t\u2026 [+6889 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Shares Sold by WealthShield Partners LLC",
+            "description": "WealthShield Partners LLC reduced its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.2% in the 2nd quarter, according to the company in its most recent filing with the Securities & Exchange Commission. The institutional investor owned 58,941 shares of t\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/04/apple-inc-nasdaqaapl-shares-sold-by-wealthshield-partners-llc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-04T07:49:18Z",
+            "content": "WealthShield Partners LLC reduced its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.2% in the 2nd quarter, according to the company in its most recent filing with the Securities &amp; Exchange\u2026 [+6701 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Patriot Financial Group Insurance Agency LLC Reduces Stock Position in Apple Inc. (NASDAQ:AAPL)",
+            "description": "Patriot Financial Group Insurance Agency LLC decreased its holdings in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.5% in the 2nd quarter, Holdings Channel.com reports. The firm owned 76,353 shares of the iPhone maker\u2019s stock after selling 1,175 shar\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/04/patriot-financial-group-insurance-agency-llc-reduces-stock-position-in-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-04T07:49:18Z",
+            "content": "Patriot Financial Group Insurance Agency LLC decreased its holdings in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.5% in the 2nd quarter, Holdings Channel.com reports. The firm owned 76,353\u2026 [+6912 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Hall Capital Management Co. Inc. Raises Stake in Apple Inc. (NASDAQ:AAPL)",
+            "description": "Hall Capital Management Co. Inc. increased its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.8% during the second quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission. The fund owned 39,170 shar\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/04/hall-capital-management-co-inc-raises-stake-in-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-04T07:49:18Z",
+            "content": "Hall Capital Management Co. Inc. increased its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.8% during the second quarter, according to the company in its most recent disclosure with the Se\u2026 [+6477 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Leith Wheeler Investment Counsel Ltd. Sells 50 Shares of Apple Inc. (NASDAQ:AAPL)",
+            "description": "Leith Wheeler Investment Counsel Ltd. reduced its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.8% during the 2nd quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The fund owned 2,653 sh\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/04/leith-wheeler-investment-counsel-ltd-sells-50-shares-of-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-04T07:49:17Z",
+            "content": "Leith Wheeler Investment Counsel Ltd. reduced its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.8% during the 2nd quarter, according to its most recent Form 13F filing with the Secur\u2026 [+6270 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Sprinkle Financial Consultants LLC Acquires 418 Shares of Apple Inc. (NASDAQ:AAPL)",
+            "description": "Sprinkle Financial Consultants LLC increased its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 4.1% during the 2nd quarter, according to the company in its most recent 13F filing with the Securities & Exchange Commission. The institutional inve\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/04/sprinkle-financial-consultants-llc-acquires-418-shares-of-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-04T07:49:17Z",
+            "content": "Sprinkle Financial Consultants LLC increased its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 4.1% during the 2nd quarter, according to the company in its most recent 13F filing with \u2026 [+6393 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Meixler Investment Management Ltd. Boosts Stake in Apple Inc. (NASDAQ:AAPL)",
+            "description": "Meixler Investment Management Ltd. raised its holdings in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 22.3% in the 2nd quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission (SEC). The firm owned 1,763 shares\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/04/meixler-investment-management-ltd-boosts-stake-in-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-04T07:49:17Z",
+            "content": "Meixler Investment Management Ltd. raised its holdings in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 22.3% in the 2nd quarter, according to its most recent Form 13F filing with the Securitie\u2026 [+6507 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) is Eagle Bay Advisors LLC\u2019s Largest Position",
+            "description": "Eagle Bay Advisors LLC trimmed its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.4% during the 2nd quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC). The institutional investor owned 59,181 \u2026",
+            "url": "https://www.etfdailynews.com/2024/10/04/apple-inc-nasdaqaapl-is-eagle-bay-advisors-llcs-largest-position/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-04T07:49:16Z",
+            "content": "Eagle Bay Advisors LLC trimmed its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.4% during the 2nd quarter, according to its most recent 13F filing with the Securities and Exchang\u2026 [+6447 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Shares Sold by LS Investment Advisors LLC",
+            "description": "LS Investment Advisors LLC trimmed its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.1% during the second quarter, HoldingsChannel.com reports. The institutional investor owned 324,103 shares of the iPhone maker\u2019s stock after selling 265 shares duri\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/04/apple-inc-nasdaqaapl-shares-sold-by-ls-investment-advisors-llc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-04T07:49:16Z",
+            "content": "LS Investment Advisors LLC trimmed its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.1% during the second quarter, HoldingsChannel.com reports. The institutional investor owned 324,103 shar\u2026 [+6448 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "West Bancorporation Inc. Has $3.15 Million Stake in Apple Inc. (NASDAQ:AAPL)",
+            "description": "West Bancorporation Inc. raised its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.9% during the 2nd quarter, Holdings Channel.com reports. The firm owned 14,936 shares of the iPhone maker\u2019s stock after acquiring an additional 427 shares du\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/04/west-bancorporation-inc-has-3-15-million-stake-in-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-04T07:49:15Z",
+            "content": "West Bancorporation Inc. raised its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.9% during the 2nd quarter, Holdings Channel.com reports. The firm owned 14,936 shares of the iPho\u2026 [+6474 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Holdings Lifted by Atomi Financial Group Inc.",
+            "description": "Atomi Financial Group Inc. lifted its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 16.9% in the second quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission (SEC). The institutional inve\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/04/apple-inc-nasdaqaapl-holdings-lifted-by-atomi-financial-group-inc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-04T07:49:15Z",
+            "content": "Atomi Financial Group Inc. lifted its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 16.9% in the second quarter, according to the company in its most recent disclosure with the Secu\u2026 [+6755 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Shares Bought by Tenon Financial LLC",
+            "description": "Tenon Financial LLC grew its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 19.8% in the second quarter, according to the company in its most recent 13F filing with the SEC. The fund owned 3,370 shares of the iPhone maker\u2019s stock after buying\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/04/apple-inc-nasdaqaapl-shares-bought-by-tenon-financial-llc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-04T07:07:03Z",
+            "content": "Tenon Financial LLC grew its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 19.8% in the second quarter, according to the company in its most recent 13F filing with the SEC. The fund\u2026 [+6343 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "MacRumors"
+            },
+            "author": "Joe Rossignol",
+            "title": "Trick or Treat? Apple's First Earnings Call Since iPhone 16 Launch Scheduled for Halloween",
+            "description": "Apple today announced that its next quarterly earnings conference call will be held on Thursday, October 31 at 2 p.m. Pacific Time/5 p.m. Eastern Time.\n\n\n\n\n\nOn the call, Apple's CEO Tim Cook and CFO Luca Maestri will discuss the company's earnings results for\u2026",
+            "url": "https://www.macrumors.com/2024/10/03/apple-earnings-on-halloween/",
+            "urlToImage": "https://images.macrumors.com/t/xRWI6pX8fAnh1vqDubxZ_togXrY=/1600x/article-new/2024/09/16-pro.jpg",
+            "publishedAt": "2024-10-04T02:08:40Z",
+            "content": "Apple today announced that its next quarterly earnings conference call will be held on Thursday, October 31 at 2 p.m. Pacific Time/5 p.m. Eastern Time.\r\nOn the call, Apple's CEO Tim Cook and CFO Luca\u2026 [+1245 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) SVP Sells $13,802,497.80 in Stock",
+            "description": "Apple Inc. (NASDAQ:AAPL \u2013 Get Free Report) SVP Katherine L. Adams sold 61,019 shares of the business\u2019s stock in a transaction on Wednesday, October 2nd. The stock was sold at an average price of $226.20, for a total value of $13,802,497.80. Following the comp\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/03/apple-inc-nasdaqaapl-svp-sells-13802497-80-in-stock/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-04T01:19:21Z",
+            "content": "Apple Inc. (NASDAQ:AAPL \u2013 Get Free Report) SVP Katherine L. Adams sold 61,019 shares of the business\u2019s stock in a transaction on Wednesday, October 2nd. The stock was sold at an average price of $226\u2026 [+5319 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Jeffrey E. Williams Sells 59,730 Shares of Apple Inc. (NASDAQ:AAPL) Stock",
+            "description": "Apple Inc. (NASDAQ:AAPL \u2013 Get Free Report) COO Jeffrey E. Williams sold 59,730 shares of the firm\u2019s stock in a transaction dated Wednesday, October 2nd. The shares were sold at an average price of $226.86, for a total transaction of $13,550,347.80. Following \u2026",
+            "url": "https://www.etfdailynews.com/2024/10/03/jeffrey-e-williams-sells-59730-shares-of-apple-inc-nasdaqaapl-stock/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-04T01:19:17Z",
+            "content": "Apple Inc. (NASDAQ:AAPL \u2013 Get Free Report) COO Jeffrey E. Williams sold 59,730 shares of the firm\u2019s stock in a transaction dated Wednesday, October 2nd. The shares were sold at an average price of $2\u2026 [+4852 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) CEO Timothy D. Cook Sells 223,986 Shares",
+            "description": "Apple Inc. (NASDAQ:AAPL \u2013 Get Free Report) CEO Timothy D. Cook sold 223,986 shares of the company\u2019s stock in a transaction dated Wednesday, October 2nd. The shares were sold at an average price of $224.46, for a total transaction of $50,275,897.56. Following \u2026",
+            "url": "https://www.etfdailynews.com/2024/10/03/apple-inc-nasdaqaapl-ceo-timothy-d-cook-sells-223986-shares/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-04T01:19:17Z",
+            "content": "Apple Inc. (NASDAQ:AAPL \u2013 Get Free Report) CEO Timothy D. Cook sold 223,986 shares of the company\u2019s stock in a transaction dated Wednesday, October 2nd. The shares were sold at an average price of $2\u2026 [+5199 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applech2.com"
+            },
+            "author": "applech2",
+            "title": "Apple\u3001\u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u306e\u5411\u4e0a\u3068\u4e0d\u5177\u5408\u3092\u4fee\u6b63\u3057\u305f\u300cSafari v18.0.1\u300d\u3092macOS 14 Sonoma\u3068macOS 13 Ventura\u5411\u3051\u306b\u30ea\u30ea\u30fc\u30b9\u3002",
+            "description": "Apple\u304c\u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u306e\u5411\u4e0a\u3068\u4e0d\u5177\u5408\u3092\u4fee\u6b63\u3057\u305f\u300cSafari v18.0.1\u300d\u3092macOS 15 Sequoia\u3068macOS 13 Ventura\u5411\u3051\u306b\u30ea\u30ea\u30fc\u30b9\u3057\u3066\u3044\u307e\u3059\u3002\u8a73\u7d30\u306f\u4ee5\u4e0b\u304b\u3089\u3002 \u3000Apple\u306f\u73fe\u5730\u6642\u95932 [\u2026]\nThe post Apple\u3001\u30d1\u30d5\u30a9\u30fc\u30de\u30f3\u30b9\u306e\u5411\u4e0a\u3068\u4e0d\u5177\u5408\u3092\u4fee\u6b63\u3057\u305f\u300cSafari v18.0.1\u300d\u3092macOS 14 Sonoma\u3068macOS 13 Ventura\u5411\u3051\u306b\u30ea\u30ea\u30fc\u30b9\u3002 first appeared on AAPL Ch..",
+            "url": "https://applech2.com/archives/20241004-safari-18-0-1-now-available.html",
+            "urlToImage": "https://applech2.com/wp-content/uploads/2024/10/Safari-18-0-1-for-Ventura-and-Sonoma-Hero.jpg",
+            "publishedAt": "2024-10-03T23:33:34Z",
+            "content": "AppleSafari v18.0.1macOS 15 SequoiamacOS 13 Ventura\r\nApple20241003macOS 15 SequoiaiOS 18/iPadOS 18HotfixmacOS 15.0.1 (24A348)iOS/iPadOS 18.0.1 (22A3370)macOS 14 SonomamacOS 13 VenturaSafari v18.0.1\r\n\u2026 [+120 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investopedia"
+            },
+            "author": "Colin Laidley",
+            "title": "How Does OpenAI's Price Tag Stack Up to Survivors of the Dotcom Bubble?",
+            "description": "OpenAI's latest fundraising round has made the ChatGPT maker one of the world's most valuable startups and, from a historical perspective, an unusually expensive investment.",
+            "url": "https://www.investopedia.com/openai-is-now-a-pricier-investment-than-these-dotcom-bubble-darlings-8722759",
+            "urlToImage": "https://www.investopedia.com/thmb/sA8sATg3xG2E5SRNIK59INydtQI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-21732853601-9db4d46ad9ae4f068155b548e039b9ee.jpg",
+            "publishedAt": "2024-10-03T21:20:37Z",
+            "content": "<ul><li>OpenAI on Wednesday completed a $6.6 billion fundraising round that valued the ChatGPT-maker at more than $150 billion, nearly double its valuation just a few months ago.</li><li>OpenAI's pri\u2026 [+3626 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Investment Analysts\u2019 Updated EPS Estimates for October 3rd (AAPL, AMD, BIIB, EVGO, GTLS, GWRE, IBM, LLY, LOVE, PLUG)",
+            "description": "Investment Analysts\u2019 updated eps estimates for Thursday, October 3rd: Apple (NASDAQ:AAPL) had its buy rating reissued by analysts at Bank of America Co.. The firm currently has a $256.00 price target on the stock. Advanced Micro Devices (NASDAQ:AMD) had its b\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/03/investment-analysts-updated-eps-estimates-for-october-3rd-aapl-amd-biib-evgo-gtls-gwre-ibm-lly-love-plug/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/generic-stocks4.jpg&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-03T20:22:51Z",
+            "content": "Investment Analysts\u2019 updated eps estimates for Thursday, October 3rd:\r\nApple (NASDAQ:AAPL) had its buy rating reissued by analysts at Bank of America Co.. The firm currently has a $256.00 price targe\u2026 [+2602 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Broadcom Recovers From Steep Drop As Sales Growth Picks Up Steam",
+            "description": "Broadcom stock is climbing back in a base and nearing a buy point.",
+            "url": "https://www.investors.com/stock-lists/ibd-big-cap-20/broadcom-stock-avgo/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/03/Stock-Broadcom-CPOethernet-01-company.jpg",
+            "publishedAt": "2024-10-03T19:13:01Z",
+            "content": "Broadcom (AVGO) is trading tightly in its newest base and near all-time highs. The company's sales growth estimates call for another robust quarter.\r\nThe IBD Big Cap 20 stock is tied with Nvidia (NVD\u2026 [+3478 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple (NASDAQ:AAPL) Shares Down 0.6%",
+            "description": "Apple Inc. (NASDAQ:AAPL \u2013 Get Free Report) shares fell 0.6% during mid-day trading on Thursday . The company traded as low as $224.62 and last traded at $225.49. 6,592,560 shares were traded during trading, a decline of 89% from the average session volume of \u2026",
+            "url": "https://www.etfdailynews.com/2024/10/03/apple-nasdaqaapl-shares-down-0-6/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-03T19:07:01Z",
+            "content": "Apple Inc. (NASDAQ:AAPL \u2013 Get Free Report) shares fell 0.6% during mid-day trading on Thursday . The company traded as low as $224.62 and last traded at $225.49. 6,592,560 shares were traded during t\u2026 [+6343 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple (NASDAQ:AAPL) Stock Rating Reaffirmed by Bank of America",
+            "description": "Apple (NASDAQ:AAPL \u2013 Get Free Report)\u2018s stock had its \u201cbuy\u201d rating reiterated by equities researchers at Bank of America in a report released on Thursday, Benzinga reports. They presently have a $256.00 price objective on the iPhone maker\u2019s stock. Bank of Ame\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/03/apple-nasdaqaapl-stock-rating-reaffirmed-by-bank-of-america/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-03T18:27:21Z",
+            "content": "Apple (NASDAQ:AAPL \u2013 Get Free Report)\u2018s stock had its \u201cbuy\u201d rating reiterated by equities researchers at Bank of America in a report released on Thursday, Benzinga reports. They presently have a $256\u2026 [+5753 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Brett Arends",
+            "title": "The S&P 500 is almost never this expensive. It\u2019s a disaster waiting to happen.",
+            "description": "We\u2019ve surpassed 1929 levels.",
+            "url": "https://finance.yahoo.com/news/p-500-almost-never-expensive-163000428.html/",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-10-03T16:30:00Z",
+            "content": "Nothing says were teetering on the brink of World War III quite like a U.S. stock market thats even more expensive, in relation to its underlying fundamentals, than it was at the peak in 1929.The iss\u2026 [+6212 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investopedia"
+            },
+            "author": "Cedric Thompson",
+            "title": "The Best Performing S&P 500 Stocks Over the Past 30 Years Might Surprise You",
+            "description": "A performance analysis of the current constituents of the S&P 500 Index Over the Last 30 Years ending September 2024",
+            "url": "https://www.investopedia.com/best-performing-s-and-p-500-stocks-8720206",
+            "urlToImage": "https://www.investopedia.com/thmb/IMZiuhkN0Tr2s8FygcixCdEAgkI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2166298802-3a703379abf4450c8cc529726a271890.jpg",
+            "publishedAt": "2024-10-03T16:01:59Z",
+            "content": "When analyzing the top-performing stocks over the past three decades, it's striking that the leaders are not all from the technology sector. While tech powerhouses such as NVIDIA Corp. (NVDA) and App\u2026 [+29053 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Daniel Howley",
+            "title": "Google to begin organizing some search results using AI, bringing ads to AI Overview",
+            "description": "Google is updating its Search feature with AI-organized results and bringing ads to AI Overview.",
+            "url": "https://finance.yahoo.com/news/google-to-begin-organizing-some-search-results-using-ai-bringing-ads-to-ai-overview-160039831.html/",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-10-03T16:00:39Z",
+            "content": "Google (GOOG, GOOGL) is bringing some big AI updates to its main Search platform and Google Lens visual search software. On Thursday the company announced it will start rolling out AI-organized searc\u2026 [+4448 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Daniel Howley",
+            "title": "Google to begin organizing some search results using AI, bringing ads to AI Overviews",
+            "description": "Google is updating its Search feature with AI-organized results and bringing ads to AI Overviews.",
+            "url": "https://finance.yahoo.com/news/google-to-begin-organizing-some-search-results-using-ai-bringing-ads-to-ai-overviews-160039296.html/",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-10-03T16:00:39Z",
+            "content": "Google (GOOG, GOOGL) is bringing some big AI updates to its main Search platform and Google Lens visual search software. On Thursday the company announced it will start rolling out AI-organized searc\u2026 [+4455 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "benzinga.com",
+            "title": "Market Clubhouse Morning Memo - October 2nd, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA)",
+            "description": "Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA.\nOur proprietary formula, exclusive to Market Clubhouse, dictates these price levels. This dynamic equation takes into account pr\u2026",
+            "url": "https://biztoc.com/x/40735bcf0d9e1a8b",
+            "urlToImage": "https://biztoc.com/cdn/40735bcf0d9e1a8b_s.webp",
+            "publishedAt": "2024-10-03T15:08:23Z",
+            "content": "Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA.Our proprietary formula, exclusive to Market Clubhouse, dictates thes\u2026 [+132 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Bruce Gil",
+            "title": "Oura just launched its latest smart ring. Apple and Samsung are coming for it",
+            "description": "\u014cura launched its latest smart ring Thursday and gave its mobile app a complete overhaul \u2014 as the company faces increasing competition from tech giants such as Samsung and Apple (AAPL).Read more...",
+            "url": "https://qz.com/oura-ring-4-smart-ring-samsung-apple-1851664237",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8bc8842afbc7feffece6cd73b437a20f.png",
+            "publishedAt": "2024-10-03T14:08:00Z",
+            "content": "In This Story\r\nura launched its latest smart ring Thursday and gave its mobile app a complete overhaul as the company faces increasing competition from tech giants such as Samsung and Apple (AAPL).\r\n\u2026 [+2004 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Futures Fall After Jobless Claims; Nvidia Rallies, Tesla Slides",
+            "description": "Nvidia rebounded further from its 50-day line, while Tesla extended Wednesday's losses.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-nvidia-stock-nvda-tesla-tsla/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2017/04/stock-wallstreet-shutter.jpg",
+            "publishedAt": "2024-10-03T13:10:40Z",
+            "content": "Reacting to new unemployment data, the Dow Jones Industrial Average and other major stock indexes dropped Thursday. Two early movers on the stock market today were Nvidia (NVDA) and Tesla (TSLA).\r\nXN\u2026 [+5369 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "9to5Mac"
+            },
+            "author": "Ben Lovejoy",
+            "title": "Tim Cook sells $50M worth of AAPL shares, but the timing is coincidental",
+            "description": "Apple CEO Tim Cook has sold AAPL shares worth more than $50M at a time when the stock is close to an all-time high \u2013 but the timing is coincidental.\n\n\n\nThe stock value broke $200 per share back in June, hitting a record $236 in July. There\u2019s been a little up-\u2026",
+            "url": "https://9to5mac.com/2024/10/03/tim-cook-sells-50m-worth-of-aapl-shares-but-the-timing-is-coincidental/",
+            "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/10/Tim-Cook-sells-50M-worth-of-AAPL-shares.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+            "publishedAt": "2024-10-03T11:02:20Z",
+            "content": "Apple CEO Tim Cook has sold AAPL shares worth more than $50M at a time when the stock is close to an all-time high but the timing is coincidental.\r\nThe stock value broke $200 per share back in June, \u2026 [+1316 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applech2.com"
+            },
+            "author": "applech2",
+            "title": "Anker Japan\u30015W\u306e\u30d5\u30eb\u30ec\u30f3\u30b8\u30b9\u30d4\u30fc\u30ab\u30fc\u3068\u30d1\u30c3\u30b7\u30d6\u30e9\u30b8\u30a8\u30fc\u30bf\u30fc\u642d\u8f09\u30571\u56de\u306e\u5145\u96fb\u3067\u6700\u592720\u6642\u9593\u306e\u97f3\u697d\u518d\u751f\u304c\u53ef\u80fd\u306a\u30dd\u30fc\u30bf\u30d6\u30ebBluetooth\u30b9\u30d4\u30fc\u30ab\u30fc\u300cSoundcore Select 4 Go\u300d\u306e\u4e88\u7d04\u8ca9\u58f2\u3092\u958b\u59cb\u3002",
+            "description": "Anker Japan\u304c5W\u306e\u30d5\u30eb\u30ec\u30f3\u30b8\u30b9\u30d4\u30fc\u30ab\u30fc\u3068\u30d1\u30c3\u30b7\u30d6\u30e9\u30b8\u30a8\u30fc\u30bf\u30fc\u642d\u8f09\u30571\u56de\u306e\u5145\u96fb\u3067\u6700\u592720\u6642\u9593\u306e\u97f3\u697d\u518d\u751f\u304c\u53ef\u80fd\u306aIP67\u5bfe\u5fdc\u306e\u30dd\u30fc\u30bf\u30d6\u30ebBluetooth\u30b9\u30d4\u30fc\u30ab\u30fc\u300cSoundcore Select 4 Go\u300d [\u2026]\nThe post Anker Japan\u30015W\u306e\u30d5\u30eb\u30ec\u30f3\u30b8\u30b9\u30d4\u30fc\u30ab\u30fc\u3068\u30d1\u30c3\u30b7\u30d6\u30e9\u30b8\u30a8\u30fc\u30bf\u30fc\u642d\u8f09\u30571\u56de\u306e\u5145\u96fb\u3067\u6700\u592720\u6642\u9593\u306e\u97f3\u697d\u518d\u751f\u304c\u53ef\u80fd\u306a\u30dd\u30fc\u30bf\u30d6\u30ebBluetooth\u30b9\u30d4\u30fc\u30ab\u30fc\u300cSoundcore Select 4 Go\u300d\u306e\u4e88\u7d04\u8ca9\u58f2\u3092\u958b\u59cb\u3002 first appeared on AAPL C\u2026",
+            "url": "https://applech2.com/archives/20241003-anker-japan-soundcore-select-4-go.html",
+            "urlToImage": "https://applech2.com/wp-content/uploads/2024/10/Anker-Japan-Soundcore-Select-4-Go-Hero.jpg",
+            "publishedAt": "2024-10-03T10:03:29Z",
+            "content": "Anker Japan5W120IP67BluetoothSoundcore Select 4 Go\r\nAnker Japan20241003Soundcore120BluetoothSoundcore Select 4 Go (A31X1)10\r\n20[\u2026]5W11\r\nSoundcore Select 4 Go Amazon.co.jp\r\nSoundcore Select 4 Go5W1Sou\u2026 [+174 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "aol.com",
+            "title": "Warren Buffett Is Selling Apple Stock and Buying This Magnificent Oil Stock Instead",
+            "description": "Warren Buffett finally did it. After making a monster investment in Apple (NASDAQ: AAPL) many years ago and watching it appreciate by multiples of his cost basis, the legendary investor is trimming Berkshire Hathaway's (NYSE: BRK.B) stake. According to filing\u2026",
+            "url": "https://biztoc.com/x/9ac553766e53f2af",
+            "urlToImage": "https://biztoc.com/cdn/9ac553766e53f2af_s.webp",
+            "publishedAt": "2024-10-03T09:10:57Z",
+            "content": "Warren Buffett finally did it. After making a monster investment in Apple (NASDAQ: AAPL) many years ago and watching it appreciate by multiples of his cost basis, the legendary investor is trimming B\u2026 [+131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Bank of America Maintains Buy Rating on Apple Inc. (AAPL) with $256 Price Target, Highlights Revenue Potential from AI Integration and Services Strategy",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_920caea9-68e9-45b4-b1ec-7dc7b91aadc8",
+            "urlToImage": null,
+            "publishedAt": "2024-10-03T08:31:45Z",
+            "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Brett Schafer, The Motley Fool",
+            "title": "Warren Buffett Is Selling Apple Stock and Buying This Magnificent Oil Stock Instead",
+            "description": "The Oracle of Omaha is making some big moves.",
+            "url": "https://finance.yahoo.com/news/warren-buffett-selling-apple-stock-082400565.html/",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-10-03T08:24:00Z",
+            "content": "Warren Buffett finally did it. After making a monster investment in Apple(NASDAQ: AAPL) many years ago and watching it appreciate by multiples of his cost basis, the legendary investor is trimming Be\u2026 [+5808 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Integrity Wealth Solutions LLC Sells 3,043 Shares of Apple Inc. (NASDAQ:AAPL)",
+            "description": "Integrity Wealth Solutions LLC reduced its holdings in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 15.5% in the 2nd quarter, according to the company in its most recent filing with the Securities & Exchange Commission. The fund owned 16,603 shares of \u2026",
+            "url": "https://www.etfdailynews.com/2024/10/03/integrity-wealth-solutions-llc-sells-3043-shares-of-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-03T07:34:55Z",
+            "content": "Integrity Wealth Solutions LLC reduced its holdings in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 15.5% in the 2nd quarter, according to the company in its most recent filing with the Securi\u2026 [+6309 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Stock Holdings Lifted by My Personal CFO LLC",
+            "description": "My Personal CFO LLC grew its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.6% during the second quarter, HoldingsChannel reports. The firm owned 28,002 shares of the iPhone maker\u2019s stock after purchasing an additional 179 shares during the quarter. App\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/03/apple-inc-nasdaqaapl-stock-holdings-lifted-by-my-personal-cfo-llc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-03T07:34:55Z",
+            "content": "My Personal CFO LLC grew its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.6% during the second quarter, HoldingsChannel reports. The firm owned 28,002 shares of the iPhone maker\u2019s stock after\u2026 [+6642 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "AlphaStar Capital Management LLC Acquires 6,972 Shares of Apple Inc. (NASDAQ:AAPL)",
+            "description": "AlphaStar Capital Management LLC grew its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 8.3% during the second quarter, Holdings Channel reports. The institutional investor owned 91,138 shares of the iPhone maker\u2019s stock after purchasing an add\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/03/alphastar-capital-management-llc-acquires-6972-shares-of-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-03T07:34:53Z",
+            "content": "AlphaStar Capital Management LLC grew its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 8.3% during the second quarter, Holdings Channel reports. The institutional investor owned 91,13\u2026 [+6828 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Yong Rong HK Asset Management Ltd Invests $33.13 Million in Apple Inc. (NASDAQ:AAPL)",
+            "description": "Yong Rong HK Asset Management Ltd purchased a new stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) in the second quarter, according to the company in its most recent disclosure with the Securities & Exchange Commission. The fund purchased 157,300 shares of the\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/03/yong-rong-hk-asset-management-ltd-invests-33-13-million-in-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-03T07:34:52Z",
+            "content": "Yong Rong HK Asset Management Ltd purchased a new stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) in the second quarter, according to the company in its most recent disclosure with the Securities &am\u2026 [+6308 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Riverpark Capital Management LLC Purchases 647 Shares of Apple Inc. (NASDAQ:AAPL)",
+            "description": "Riverpark Capital Management LLC increased its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 4.0% in the 2nd quarter, according to the company in its most recent disclosure with the SEC. The fund owned 16,823 shares of the iPhone maker\u2019s sto\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/03/riverpark-capital-management-llc-purchases-647-shares-of-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-03T07:03:20Z",
+            "content": "Riverpark Capital Management LLC increased its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 4.0% in the 2nd quarter, according to the company in its most recent disclosure with the\u2026 [+6233 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Mitsubishi UFJ Asset Management UK Ltd. Has $8.43 Million Position in Apple Inc. (NASDAQ:AAPL)",
+            "description": "Mitsubishi UFJ Asset Management UK Ltd. grew its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 90.5% during the 2nd quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission. The firm owned 40,000 shares of the \u2026",
+            "url": "https://www.etfdailynews.com/2024/10/03/mitsubishi-ufj-asset-management-uk-ltd-has-8-43-million-position-in-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-03T07:03:09Z",
+            "content": "Mitsubishi UFJ Asset Management UK Ltd. grew its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 90.5% during the 2nd quarter, according to its most recent Form 13F filing with the Securities a\u2026 [+6717 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Shares Bought by Granite Harbor Advisors Inc.",
+            "description": "Granite Harbor Advisors Inc. lifted its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.3% during the 2nd quarter, HoldingsChannel reports. The firm owned 27,609 shares of the iPhone maker\u2019s stock after purchasing an additional 630 shares durin\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/03/apple-inc-nasdaqaapl-shares-bought-by-granite-harbor-advisors-inc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-03T07:03:07Z",
+            "content": "Granite Harbor Advisors Inc. lifted its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.3% during the 2nd quarter, HoldingsChannel reports. The firm owned 27,609 shares of the iPhone m\u2026 [+6691 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Shares Acquired by First Command Advisory Services Inc.",
+            "description": "First Command Advisory Services Inc. grew its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.4% during the 2nd quarter, according to the company in its most recent disclosure with the SEC. The fund owned 40,512 shares of the iPhone maker\u2019s \u2026",
+            "url": "https://www.etfdailynews.com/2024/10/03/apple-inc-nasdaqaapl-shares-acquired-by-first-command-advisory-services-inc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-03T07:03:02Z",
+            "content": "First Command Advisory Services Inc. grew its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.4% during the 2nd quarter, according to the company in its most recent disclosure with \u2026 [+6830 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Dearborn Partners LLC Has $129.50 Million Stock Position in Apple Inc. (NASDAQ:AAPL)",
+            "description": "Dearborn Partners LLC lowered its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.2% during the second quarter, Holdings Channel.com reports. The firm owned 614,860 shares of the iPhone maker\u2019s stock after selling 7,630 shares during the qua\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/03/dearborn-partners-llc-has-129-50-million-stock-position-in-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-03T07:02:59Z",
+            "content": "Dearborn Partners LLC lowered its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.2% during the second quarter, Holdings Channel.com reports. The firm owned 614,860 shares of the iP\u2026 [+6356 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Cohen Investment Advisors LLC Acquires 239 Shares of Apple Inc. (NASDAQ:AAPL)",
+            "description": "Cohen Investment Advisors LLC grew its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.5% in the second quarter, Holdings Channel reports. The institutional investor owned 46,574 shares of the iPhone maker\u2019s stock after acquiring an additional 239 sha\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/03/cohen-investment-advisors-llc-acquires-239-shares-of-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-03T07:02:56Z",
+            "content": "Cohen Investment Advisors LLC grew its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.5% in the second quarter, Holdings Channel reports. The institutional investor owned 46,574 shares of th\u2026 [+6440 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Trust Co. of Virginia VA Increases Stock Holdings in Apple Inc. (NASDAQ:AAPL)",
+            "description": "Trust Co. of Virginia VA lifted its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.1% in the 2nd quarter, according to the company in its most recent disclosure with the SEC. The institutional investor owned 168,728 shares of the iPhone maker\u2019s stock\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/03/trust-co-of-virginia-va-increases-stock-holdings-in-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-03T07:02:54Z",
+            "content": "Trust Co. of Virginia VA lifted its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.1% in the 2nd quarter, according to the company in its most recent disclosure with the SEC. The institution\u2026 [+6443 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Legato Capital Management LLC Has $8.46 Million Position in Apple Inc. (NASDAQ:AAPL)",
+            "description": "Legato Capital Management LLC reduced its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 29.9% in the second quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission. The firm owned 40,154 sh\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/03/legato-capital-management-llc-has-8-46-million-position-in-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-03T07:02:51Z",
+            "content": "Legato Capital Management LLC reduced its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 29.9% in the second quarter, according to the company in its most recent disclosure with the \u2026 [+6282 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Usman Kabir",
+            "title": "Apple Inc. (AAPL) Expected to Unveil Next-Gen Vision Pro Headset Powered by M5 Chip in 2025, Says Analyst Ming-Chi Kuo",
+            "description": "We recently compiled a list of the AI News Investors Probably Missed. In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands...",
+            "url": "https://finance.yahoo.com/news/apple-inc-aapl-expected-unveil-065509450.html/",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-10-03T06:55:09Z",
+            "content": "We recently compiled a list of the AI News Investors Probably Missed.\u00a0In this article, we are going to take a look at where Apple Inc. (NASDAQ:AAPL) stands against the other AI stocks.\r\nInvestors hav\u2026 [+4110 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Equities Research Analysts\u2019 Downgrades for October 2nd (AAPL, AGL, ALOT, ATO, BAC, DGICA, DOX, DXCM, ESCA, FBIZ)",
+            "description": "Equities Research Analysts\u2019 downgrades for Wednesday, October 2nd: Apple (NASDAQ:AAPL) was downgraded by analysts at StockNews.com from a buy rating to a hold rating. agilon health (NYSE:AGL) was downgraded by analysts at Bank of America Co. from a buy rating\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/03/equities-research-analysts-downgrades-for-october-2nd-aapl-agl-alot-ato-bac-dgica-dox-dxcm-esca-fbiz/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/downgrade-image.jpg&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-03T04:20:43Z",
+            "content": "Equities Research Analysts\u2019 downgrades for Wednesday, October 2nd:\r\nApple (NASDAQ:AAPL) was downgraded by analysts at StockNews.com from a buy rating to a hold rating. \r\nagilon health (NYSE:AGL) was \u2026 [+2670 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "StockNews.com Downgrades Apple (NASDAQ:AAPL) to Hold",
+            "description": "Apple (NASDAQ:AAPL \u2013 Get Free Report) was downgraded by equities researchers at StockNews.com from a \u201cbuy\u201d rating to a \u201chold\u201d rating in a report released on Wednesday. A number of other brokerages also recently commented on AAPL. KeyCorp reissued a \u201chold\u201d rat\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/stocknews-com-downgrades-apple-nasdaqaapl-to-hold/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-03T03:16:59Z",
+            "content": "Apple (NASDAQ:AAPL \u2013 Get Free Report) was downgraded by equities researchers at StockNews.com from a \u201cbuy\u201d rating to a \u201chold\u201d rating in a report released on Wednesday.\r\nA number of other brokerages a\u2026 [+5590 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "thestreet.com",
+            "title": "Apple may have a big problem on its hands",
+            "description": "Yes, Jimmy Fallon, that really was Tim Cook.\nThe Tonight Show host recently was momentarily confused when he took a gander at Apple's (AAPL) CEO while wearing a Vision Pro headset and mistakenly thought he was looking a virtual rendition of the computer giant\u2026",
+            "url": "https://biztoc.com/x/369ee3d4d4e5d30f",
+            "urlToImage": "https://biztoc.com/cdn/369ee3d4d4e5d30f_s.webp",
+            "publishedAt": "2024-10-02T23:25:30Z",
+            "content": "Yes, Jimmy Fallon, that really was Tim Cook.The Tonight Show host recently was momentarily confused when he took a gander at Apple's (AAPL) CEO while wearing a Vision Pro headset and mistakenly thoug\u2026 [+136 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool Australia"
+            },
+            "author": "James Mickleboro",
+            "title": "3 ASX ETFs to buy for income in October",
+            "description": "Looking for an income boost? Check out these ETFs this month.\nThe post 3 ASX ETFs to buy for income in October appeared first on The Motley Fool Australia.",
+            "url": "https://www.fool.com.au/2024/10/03/3-asx-etfs-to-buy-for-income-in-october/",
+            "urlToImage": "https://www.fool.com.au/wp-content/uploads/2023/09/GettyImages-1487350889-1-1200x675.jpg",
+            "publishedAt": "2024-10-02T20:43:42Z",
+            "content": "There are a large number of exchange-traded funds (ETFs)\u00a0for income investors to choose from on the Australian share market.\r\nBut which ones could be good options in October? Let's take a look at thr\u2026 [+2331 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thefly.com"
+            },
+            "author": null,
+            "title": "StockTok: Zoom Video names Michelle Chang CFO",
+            "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026",
+            "url": "https://thefly.com/permalinks/entry.php/id3992441/DJT;META;AMZN;AAPL;GOOGL;GOOG;MSFT;SNAP;PINS-StockTok-Zoom-Video-names-Michelle-Chang-CFO",
+            "urlToImage": "https://image.thefly.com/catalog/201810/img_86.jpg",
+            "publishedAt": "2024-10-02T19:46:35Z",
+            "content": "Welcome to \"StockTok,\" The Fly's weekly recap of Wall Street's reactions to social media stock news. \r\nDATA SHARING PACT: Meta Platforms (META) is launching a data-sharing partnership with UK banks t\u2026 [+8979 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Daniel Howley",
+            "title": "Microsoft wants to change the way you use your PC. It needs to succeed.",
+            "description": "Microsoft is changing the way you interact with your computer. But its efforts face serious competition from some old rivals.",
+            "url": "https://finance.yahoo.com/news/microsoft-wants-to-change-the-way-you-use-your-pc-it-needs-to-succeed-194226582.html/",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-10-02T19:42:26Z",
+            "content": "Microsoft (MSFT) wants you to talk to your computer. No, not by swearing at it when your boss schedules another 8 a.m. meeting. Rather, the tech giant wants you to have actual back-and-forth conversa\u2026 [+6080 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple (NASDAQ:AAPL) Stock Price Down 0.1%",
+            "description": "Apple Inc. (NASDAQ:AAPL \u2013 Get Free Report) fell 0.1% during trading on Wednesday . The stock traded as low as $223.02 and last traded at $225.91. 10,667,230 shares traded hands during trading, a decline of 83% from the average session volume of 61,428,031 sha\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/apple-nasdaqaapl-stock-price-down-0-1/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T18:57:19Z",
+            "content": "Apple Inc. (NASDAQ:AAPL \u2013 Get Free Report) fell 0.1% during trading on Wednesday . The stock traded as low as $223.02 and last traded at $225.91. 10,667,230 shares traded hands during trading, a decl\u2026 [+6220 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Britney Nguyen",
+            "title": "OpenAI is now worth more than $150 billion",
+            "description": "OpenAI\u2019s multibillion-dollar funding round is now complete, giving the artificial intelligence startup a valuation of $157 billion. Read more...",
+            "url": "https://qz.com/openai-funding-6-billion-worth-150-billion-ai-startup-1851663346",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/e5e34bffdc569f207afd843488e36f26.jpg",
+            "publishedAt": "2024-10-02T17:40:00Z",
+            "content": "In This Story\r\nOpenAIs multibillion-dollar funding round is now complete, giving the artificial intelligence startup a valuation of $157 billion. \r\nThe $6.6 billion raise is one of the largest privat\u2026 [+1851 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Equities Research Analysts\u2019 Updated EPS Estimates for October 2nd (AAPL, ADXN, AEO, AMN, BIOL, ESPR, FI, FLYW, FPAY, GNTA)",
+            "description": "Equities Research Analysts\u2019 updated eps estimates for Wednesday, October 2nd: Apple (NASDAQ:AAPL) had its buy rating reissued by analysts at Citigroup Inc.. The firm currently has a $255.00 price target on the stock. Addex Therapeutics (NASDAQ:ADXN) had its b\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/equities-research-analysts-updated-eps-estimates-for-october-2nd-aapl-adxn-aeo-amn-biol-espr-fi-flyw-fpay-gnta/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/generic-stocks3.jpg&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T17:12:44Z",
+            "content": "Equities Research Analysts\u2019 updated eps estimates for Wednesday, October 2nd:\r\nApple (NASDAQ:AAPL) had its buy rating reissued by analysts at Citigroup Inc.. The firm currently has a $255.00 price ta\u2026 [+5456 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "benzinga.com",
+            "title": "Market Clubhouse Morning Memo - October 2nd, 2024 (Trade Strategy For SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META And TSLA)",
+            "description": "Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA.\nOur proprietary formula, exclusive to Market Clubhouse, dictates these price levels. This dynamic equation takes into account pr\u2026",
+            "url": "https://biztoc.com/x/9d2817097ae943e0",
+            "urlToImage": "https://biztoc.com/cdn/9d2817097ae943e0_s.webp",
+            "publishedAt": "2024-10-02T15:19:01Z",
+            "content": "Good Morning Traders! In today's Market Clubhouse Morning Memo, we will discuss SPY, QQQ, AAPL, MSFT, NVDA, GOOGL, META, and TSLA.Our proprietary formula, exclusive to Market Clubhouse, dictates thes\u2026 [+132 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Brian Sozzi",
+            "title": "How PayPal's new CEO is reinventing the firm as it goes beyond payments",
+            "description": "PayPal CEO Alex Chriss has settled into the top job at the payments giant. Here's what investors need to know.",
+            "url": "https://finance.yahoo.com/news/how-paypals-new-ceo-is-reinventing-the-firm-as-it-goes-beyond-payments-141126940.html/",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-10-02T14:11:26Z",
+            "content": "Listen and subscribe to Opening Bid on Apple Podcasts, Spotify, or wherever you find your favorite podcasts.\r\nOne year into the top job at payments giant PayPal (PYPL), Alex Chriss is emerging from a\u2026 [+6031 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "muslimfarooque",
+            "title": "iPhone 16 Surge vs. Valuation Woes: Can Apple Maintain Its Bullish Run?",
+            "description": "Apple's iPhone 16 momentum and upcoming intelligence features point to more upside ahead.",
+            "url": "https://finance.yahoo.com/news/iphone-16-surge-vs-valuation-140001834.html/",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-10-02T14:00:01Z",
+            "content": "Cupertino-based tech giant Apple has been on a superb six-month surge, rebounding sharply from its April lows with impressive momentum. Since April, it has been a sea of green for Apple investors, po\u2026 [+9551 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Futures Fall After Jobs Data; Tesla Slides On Q3 Deliveries",
+            "description": "Nike plunged on earnings, while Nvidia is trying to find support at a key level.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-adp-jobs-data-nvidia-stock-nvda/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2019/10/stock-wall-street-flags-adobe.jpg",
+            "publishedAt": "2024-10-02T13:04:43Z",
+            "content": "The Dow Jones Industrial Average dropped Wednesday, as Wall Street reacted to a jobs report. Three early movers on the stock market today were Nike (NKE), Nvidia (NVDA) and Tesla (TSLA), the latter o\u2026 [+6166 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Keith Noonan and Jennifer Saibil, The Motley Fool",
+            "title": "42.4% of Warren Buffett's $315.4 Billion Berkshire Hathaway Portfolio Is Invested in These 2 S&P 500 Dividend Stocks",
+            "description": "Berkshire Hathaway doesn't pay a dividend, but Warren Buffett loves these two dividend-paying stocks.",
+            "url": "https://finance.yahoo.com/news/42-4-warren-buffetts-315-101000800.html/",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-10-02T10:10:00Z",
+            "content": "Under the leadership of its legendary chief executive officer, Warren Buffett, Berkshire Hathaway has become one of history's most successful companies and delivered stellar returns for long-term sha\u2026 [+6191 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": null,
+            "title": "Apple Inc. (AAPL): One of the Most Widely Held Stocks by Hedge Funds",
+            "description": null,
+            "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_926af09d-8c0c-4f97-9826-d3a031382e3e",
+            "urlToImage": null,
+            "publishedAt": "2024-10-02T08:36:43Z",
+            "content": "If you click 'Accept all', we and our partners, including 240 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use \u2026 [+678 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "2,012 Shares in Apple Inc. (NASDAQ:AAPL) Bought by Intrinsic Value Partners LLC",
+            "description": "Intrinsic Value Partners LLC bought a new position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) during the second quarter, HoldingsChannel.com reports. The firm bought 2,012 shares of the iPhone maker\u2019s stock, valued at approximately $424,000. Other in\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/2012-shares-in-apple-inc-nasdaqaapl-bought-by-intrinsic-value-partners-llc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:35:00Z",
+            "content": "Intrinsic Value Partners LLC bought a new position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) during the second quarter, HoldingsChannel.com reports. The firm bought 2,012 shares of the iPho\u2026 [+6243 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Oceanside Advisors LLC Lowers Position in Apple Inc. (NASDAQ:AAPL)",
+            "description": "Oceanside Advisors LLC decreased its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 3.7% during the second quarter, HoldingsChannel.com reports. The firm owned 2,745 shares of the iPhone maker\u2019s stock after selling 104 shares during the quarter. Apple \u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/oceanside-advisors-llc-lowers-position-in-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:35:00Z",
+            "content": "Oceanside Advisors LLC decreased its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 3.7% during the second quarter, HoldingsChannel.com reports. The firm owned 2,745 shares of the iPhone maker\u2026 [+6300 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) is Bristlecone Advisors LLC\u2019s 3rd Largest Position",
+            "description": "Bristlecone Advisors LLC cut its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.3% in the second quarter, according to its most recent disclosure with the Securities and Exchange Commission (SEC). The institutional investor owned 210,025 shares of the i\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/apple-inc-nasdaqaapl-is-bristlecone-advisors-llcs-3rd-largest-position/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:59Z",
+            "content": "Bristlecone Advisors LLC cut its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.3% in the second quarter, according to its most recent disclosure with the Securities and Exchange Commission (SE\u2026 [+6638 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "IMA Advisory Services Inc. Raises Stake in Apple Inc. (NASDAQ:AAPL)",
+            "description": "IMA Advisory Services Inc. increased its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.3% during the second quarter, according to its most recent filing with the SEC. The fund owned 39,261 shares of the iPhone maker\u2019s stock after buying an additional 9\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/ima-advisory-services-inc-raises-stake-in-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:59Z",
+            "content": "IMA Advisory Services Inc. increased its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.3% during the second quarter, according to its most recent filing with the SEC. The fund owned 39,261 sha\u2026 [+6363 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Catalyst Financial Partners LLC Purchases 5,885 Shares of Apple Inc. (NASDAQ:AAPL)",
+            "description": "Catalyst Financial Partners LLC lifted its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 6.8% during the second quarter, Holdings Channel.com reports. The firm owned 92,654 shares of the iPhone maker\u2019s stock after purchasing an additional 5,\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/catalyst-financial-partners-llc-purchases-5885-shares-of-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:59Z",
+            "content": "Catalyst Financial Partners LLC lifted its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 6.8% during the second quarter, Holdings Channel.com reports. The firm owned 92,654 shares o\u2026 [+6690 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Shares Sold by Patten Group Inc.",
+            "description": "Patten Group Inc. trimmed its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 3.0% in the second quarter, Holdings Channel reports. The fund owned 81,722 shares of the iPhone maker\u2019s stock after selling 2,527 shares during the period. Apple accou\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/apple-inc-nasdaqaapl-shares-sold-by-patten-group-inc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:59Z",
+            "content": "Patten Group Inc. trimmed its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 3.0% in the second quarter, Holdings Channel reports. The fund owned 81,722 shares of the iPhone maker\u2019s sto\u2026 [+6309 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Tanglewood Wealth Management Inc. Has $1.03 Million Holdings in Apple Inc. (NASDAQ:AAPL)",
+            "description": "Tanglewood Wealth Management Inc. lifted its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 104.9% during the 2nd quarter, HoldingsChannel reports. The fund owned 4,902 shares of the iPhone maker\u2019s stock after purchasing an additional 2,510 s\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/tanglewood-wealth-management-inc-has-1-03-million-holdings-in-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:59Z",
+            "content": "Tanglewood Wealth Management Inc. lifted its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 104.9% during the 2nd quarter, HoldingsChannel reports. The fund owned 4,902 shares of the\u2026 [+6872 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Alta Capital Management LLC Raises Holdings in Apple Inc. (NASDAQ:AAPL)",
+            "description": "Alta Capital Management LLC boosted its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 6.7% during the second quarter, according to its most recent Form 13F filing with the Securities & Exchange Commission. The fund owned 513,307 shares of the iPhone m\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/alta-capital-management-llc-raises-holdings-in-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:58Z",
+            "content": "Alta Capital Management LLC boosted its holdings in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 6.7% during the second quarter, according to its most recent Form 13F filing with the Securities &amp; Ex\u2026 [+6543 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Bank of New York Mellon Corp Lowers Stake in Apple Inc. (NASDAQ:AAPL)",
+            "description": "Bank of New York Mellon Corp lowered its holdings in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.7% in the 2nd quarter, according to its most recent 13F filing with the Securities & Exchange Commission. The fund owned 112,393,661 shares of the iPhon\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/bank-of-new-york-mellon-corp-lowers-stake-in-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:58Z",
+            "content": "Bank of New York Mellon Corp lowered its holdings in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.7% in the 2nd quarter, according to its most recent 13F filing with the Securities &amp; Exc\u2026 [+6550 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Shares Purchased by Rational Advisors LLC",
+            "description": "Rational Advisors LLC grew its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 182.4% during the second quarter, according to the company in its most recent 13F filing with the Securities & Exchange Commission. The fund owned 23,168 shares of \u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/apple-inc-nasdaqaapl-shares-purchased-by-rational-advisors-llc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:58Z",
+            "content": "Rational Advisors LLC grew its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 182.4% during the second quarter, according to the company in its most recent 13F filing with the Securi\u2026 [+6380 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Shares Sold by First Heartland Consultants Inc.",
+            "description": "First Heartland Consultants Inc. reduced its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.7% in the 2nd quarter, according to its most recent filing with the SEC. The fund owned 73,925 shares of the iPhone maker\u2019s stock after selling 1,297 shares d\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/apple-inc-nasdaqaapl-shares-sold-by-first-heartland-consultants-inc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:58Z",
+            "content": "First Heartland Consultants Inc. reduced its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.7% in the 2nd quarter, according to its most recent filing with the SEC. The fund owned 73,925 sha\u2026 [+6513 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) is New Millennium Group LLC\u2019s 3rd Largest Position",
+            "description": "New Millennium Group LLC lifted its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 35.6% during the second quarter, according to the company in its most recent 13F filing with the SEC. The firm owned 51,995 shares of the iPhone maker\u2019s stock aft\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/apple-inc-nasdaqaapl-is-new-millennium-group-llcs-3rd-largest-position/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:58Z",
+            "content": "New Millennium Group LLC lifted its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 35.6% during the second quarter, according to the company in its most recent 13F filing with the SEC. \u2026 [+6481 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Hyman Charles D Sells 904 Shares of Apple Inc. (NASDAQ:AAPL)",
+            "description": "Hyman Charles D lessened its holdings in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.2% during the 2nd quarter, Holdings Channel.com reports. The firm owned 481,246 shares of the iPhone maker\u2019s stock after selling 904 shares during the period. Apple\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/hyman-charles-d-sells-904-shares-of-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:57Z",
+            "content": "Hyman Charles D lessened its holdings in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.2% during the 2nd quarter, Holdings Channel.com reports. The firm owned 481,246 shares of the iPhone mak\u2026 [+6603 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "EFG Asset Management North America Corp. Has $15.51 Million Stock Holdings in Apple Inc. (NASDAQ:AAPL)",
+            "description": "EFG Asset Management North America Corp. trimmed its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 3.8% during the 2nd quarter, Holdings Channel reports. The fund owned 73,673 shares of the iPhone maker\u2019s stock after selling 2,900 shares dur\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/efg-asset-management-north-america-corp-has-15-51-million-stock-holdings-in-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:57Z",
+            "content": "EFG Asset Management North America Corp. trimmed its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 3.8% during the 2nd quarter, Holdings Channel reports. The fund owned 73,673 share\u2026 [+6413 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) is SlateStone Wealth LLC\u2019s 2nd Largest Position",
+            "description": "SlateStone Wealth LLC trimmed its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 18.8% during the 2nd quarter, according to the company in its most recent filing with the SEC. The institutional investor owned 261,287 shares of the iPhone make\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/apple-inc-nasdaqaapl-is-slatestone-wealth-llcs-2nd-largest-position/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:57Z",
+            "content": "SlateStone Wealth LLC trimmed its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 18.8% during the 2nd quarter, according to the company in its most recent filing with the SEC. The in\u2026 [+6495 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Stock Holdings Raised by Townsend Asset Management Corp NC ADV",
+            "description": "Townsend Asset Management Corp NC ADV boosted its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.8% in the second quarter, Holdings Channel reports. The fund owned 42,453 shares of the iPhone maker\u2019s stock after buying an additional 753 shares during th\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/apple-inc-nasdaqaapl-stock-holdings-raised-by-townsend-asset-management-corp-nc-adv/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:56Z",
+            "content": "Townsend Asset Management Corp NC ADV boosted its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.8% in the second quarter, Holdings Channel reports. The fund owned 42,453 shares of the iPhone m\u2026 [+6458 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Holdings Cut by TFG Advisers LLC",
+            "description": "TFG Advisers LLC cut its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.5% during the 2nd quarter, HoldingsChannel.com reports. The firm owned 80,096 shares of the iPhone maker\u2019s stock after selling 429 shares during the quarter. Apple accounts for a\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/apple-inc-nasdaqaapl-holdings-cut-by-tfg-advisers-llc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:56Z",
+            "content": "TFG Advisers LLC cut its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.5% during the 2nd quarter, HoldingsChannel.com reports. The firm owned 80,096 shares of the iPhone maker\u2019s stock after\u2026 [+6739 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Shares Sold by Addison Capital Co",
+            "description": "Addison Capital Co lowered its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 6.4% during the second quarter, according to its most recent disclosure with the Securities and Exchange Commission. The fund owned 25,587 shares of the iPhone maker\u2019s stock \u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/apple-inc-nasdaqaapl-shares-sold-by-addison-capital-co/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:56Z",
+            "content": "Addison Capital Co lowered its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 6.4% during the second quarter, according to its most recent disclosure with the Securities and Exchange Commissio\u2026 [+6773 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Shares Sold by Verdence Capital Advisors LLC",
+            "description": "Verdence Capital Advisors LLC lowered its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.4% in the second quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission. The institutional investor owned 215,1\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/apple-inc-nasdaqaapl-shares-sold-by-verdence-capital-advisors-llc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:56Z",
+            "content": "Verdence Capital Advisors LLC lowered its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 1.4% in the second quarter, according to its most recent Form 13F filing with the Securities and\u2026 [+6741 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Position Lessened by Paulson Wealth Management Inc.",
+            "description": "Paulson Wealth Management Inc. lowered its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.3% during the 2nd quarter, Holdings Channel.com reports. The institutional investor owned 108,018 shares of the iPhone maker\u2019s stock after selling 291 sh\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/apple-inc-nasdaqaapl-position-lessened-by-paulson-wealth-management-inc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:56Z",
+            "content": "Paulson Wealth Management Inc. lowered its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.3% during the 2nd quarter, Holdings Channel.com reports. The institutional investor owned 108\u2026 [+6537 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Proficio Capital Partners LLC Acquires 3,386 Shares of Apple Inc. (NASDAQ:AAPL)",
+            "description": "Proficio Capital Partners LLC lifted its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 3.3% in the 2nd quarter, Holdings Channel.com reports. The institutional investor owned 106,350 shares of the iPhone maker\u2019s stock after acquiring an additional 3,3\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/proficio-capital-partners-llc-acquires-3386-shares-of-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:55Z",
+            "content": "Proficio Capital Partners LLC lifted its position in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 3.3% in the 2nd quarter, Holdings Channel.com reports. The institutional investor owned 106,350 shares o\u2026 [+6576 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) is Harbor Island Capital LLC\u2019s 3rd Largest Position",
+            "description": "Harbor Island Capital LLC reduced its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.3% during the second quarter, according to its most recent filing with the SEC. The fund owned 97,688 shares of the iPhone maker\u2019s stock after selling 250 shares during\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/apple-inc-nasdaqaapl-is-harbor-island-capital-llcs-3rd-largest-position/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:55Z",
+            "content": "Harbor Island Capital LLC reduced its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.3% during the second quarter, according to its most recent filing with the SEC. The fund owned 97,688 shares\u2026 [+6716 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Shares Bought by MTM Investment Management LLC",
+            "description": "MTM Investment Management LLC lifted its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.4% in the second quarter, according to the company in its most recent 13F filing with the Securities and Exchange Commission. The firm owned 52,535 shar\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/apple-inc-nasdaqaapl-shares-bought-by-mtm-investment-management-llc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:55Z",
+            "content": "MTM Investment Management LLC lifted its position in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.4% in the second quarter, according to the company in its most recent 13F filing with the Se\u2026 [+6418 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Shares Sold by Bailard Inc.",
+            "description": "Bailard Inc. lowered its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.9% during the second quarter, according to the company in its most recent disclosure with the Securities and Exchange Commission. The firm owned 854,154 shares of the iPhone maker\u2019s\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/apple-inc-nasdaqaapl-shares-sold-by-bailard-inc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:55Z",
+            "content": "Bailard Inc. lowered its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.9% during the second quarter, according to the company in its most recent disclosure with the Securities and Exchange Com\u2026 [+6415 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Shares Sold by Salomon & Ludwin LLC",
+            "description": "Salomon & Ludwin LLC decreased its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 28.9% during the 2nd quarter, according to the company in its most recent 13F filing with the Securities and Exchange Commission. The fund owned 63,509 shares of the iPhone \u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/apple-inc-nasdaqaapl-shares-sold-by-salomon-ludwin-llc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:54Z",
+            "content": "Salomon &amp; Ludwin LLC decreased its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 28.9% during the 2nd quarter, according to the company in its most recent 13F filing with the Securities and \u2026 [+6440 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Shares Sold by Sierra Capital LLC",
+            "description": "Sierra Capital LLC cut its holdings in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 8.9% in the second quarter, HoldingsChannel reports. The firm owned 66,493 shares of the iPhone maker\u2019s stock after selling 6,531 shares during the period. Apple accoun\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/apple-inc-nasdaqaapl-shares-sold-by-sierra-capital-llc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:54Z",
+            "content": "Sierra Capital LLC cut its holdings in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 8.9% in the second quarter, HoldingsChannel reports. The firm owned 66,493 shares of the iPhone maker\u2019s stoc\u2026 [+6420 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Catalyst Capital Advisors LLC Has $4.44 Million Holdings in Apple Inc. (NASDAQ:AAPL)",
+            "description": "Catalyst Capital Advisors LLC increased its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.6% during the second quarter, according to the company in its most recent filing with the SEC. The fund owned 21,069 shares of the iPhone maker\u2019s stock \u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/catalyst-capital-advisors-llc-has-4-44-million-holdings-in-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:54Z",
+            "content": "Catalyst Capital Advisors LLC increased its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 2.6% during the second quarter, according to the company in its most recent filing with the SE\u2026 [+6603 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Rooted Wealth Advisors Inc. Has $3.07 Million Stock Position in Apple Inc. (NASDAQ:AAPL)",
+            "description": "Rooted Wealth Advisors Inc. raised its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 14.9% during the second quarter, HoldingsChannel.com reports. The institutional investor owned 13,702 shares of the iPhone maker\u2019s stock after buying an additional 1,776\u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/rooted-wealth-advisors-inc-has-3-07-million-stock-position-in-apple-inc-nasdaqaapl/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:54Z",
+            "content": "Rooted Wealth Advisors Inc. raised its stake in Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 14.9% during the second quarter, HoldingsChannel.com reports. The institutional investor owned 13,702 shares \u2026 [+6305 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ETF Daily News"
+            },
+            "author": "MarketBeat News",
+            "title": "Apple Inc. (NASDAQ:AAPL) Shares Acquired by Pegasus Asset Management Inc.",
+            "description": "Pegasus Asset Management Inc. boosted its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.3% during the 2nd quarter, according to its most recent 13F filing with the SEC. The firm owned 89,257 shares of the iPhone maker\u2019s stock after buying an \u2026",
+            "url": "https://www.etfdailynews.com/2024/10/02/apple-inc-nasdaqaapl-shares-acquired-by-pegasus-asset-management-inc/",
+            "urlToImage": "https://www.americanbankingnews.com/wp-content/timthumb/timthumb.php?src=https://www.marketbeat.com/logos/apple-inc-logo-1200x675.png&w=240&h=240&zc=2",
+            "publishedAt": "2024-10-02T08:34:54Z",
+            "content": "Pegasus Asset Management Inc. boosted its stake in shares of Apple Inc. (NASDAQ:AAPL \u2013 Free Report) by 0.3% during the 2nd quarter, according to its most recent 13F filing with the SEC. The firm owne\u2026 [+6737 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Applech2.com"
+            },
+            "author": "applech2",
+            "title": "\u7c73Anker\u3001\u539a\u30555.8mm\u306e\u30ed\u30fc\u30d7\u30ed\u30d5\u30a1\u30a4\u30eb\u30fb\u30b3\u30cd\u30af\u30bf\u3092\u63a1\u7528\u3057USB-C\u30dd\u30fc\u30c8\u5468\u308a\u304c\u72ed\u3044\u30b9\u30de\u30db\u30b1\u30fc\u30b9\u306b\u3082\u5bfe\u5fdc\u3059\u308b\u300cAnker Zolo USB-C to USB-C Cable (240W, Braided)\u300d\u3092\u767a\u58f2\u3002",
+            "description": "\u7c73Anker\u304c\u539a\u30555.8mm\u306e\u30ed\u30fc\u30d7\u30ed\u30d5\u30a1\u30a4\u30eb\u30fb\u30b3\u30cd\u30af\u30bf\u3092\u63a1\u7528\u3057USB-C\u30dd\u30fc\u30c8\u5468\u308a\u304c\u72ed\u3044\u30b9\u30de\u30db\u30b1\u30fc\u30b9\u306b\u3082\u5bfe\u5fdc\u3059\u308b\u300cAnker Zolo USB-C to USB-C Cable (240W, Braided)\u300d\u3092\u767a\u58f2 [\u2026]\nThe post \u7c73Anker\u3001\u539a\u30555.8mm\u306e\u30ed\u30fc\u30d7\u30ed\u30d5\u30a1\u30a4\u30eb\u30fb\u30b3\u30cd\u30af\u30bf\u3092\u63a1\u7528\u3057USB-C\u30dd\u30fc\u30c8\u5468\u308a\u304c\u72ed\u3044\u30b9\u30de\u30db\u30b1\u30fc\u30b9\u306b\u3082\u5bfe\u5fdc\u3059\u308b\u300cAnker Zolo USB-C to USB-C Cable (240W, Braided)\u300d\u3092\u767a\u58f2\u3002 first appeared on AAPL Ch\u2026",
+            "url": "https://applech2.com/archives/20241002-anker-zolo-usb-c-to-usb-c-cable-240w-braided.html",
+            "urlToImage": "https://applech2.com/wp-content/uploads/2024/10/Anker-Zolo-USB-C-to-USB-C-Cable-240W-Braided-features-Hero.jpg",
+            "publishedAt": "2024-10-02T06:13:37Z",
+            "content": "Anker5.8mmUSB-CAnker Zolo USB-C to USB-C Cable (240W, Braided)\r\nAnkerAnker Zolo240W PDUSB-CAnker Zolo USB-C to USB-C Cable (3.3 ft/6 ft, 240W, Braided) (A8060)\r\nOffers a stylish, unibody design with \u2026 [+1172 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Futures Fall After Stocks Hold Key Levels Following Iran Attack; Tesla Deliveries Due",
+            "description": "The Nasdaq slumped 1.5%, but did find key support.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-market-pares-losses-iran-missile-attack-tesla-deliveries/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2024/04/ISRAEL_iranmissile_041524_adobe.jpg",
+            "publishedAt": "2024-10-01T23:29:47Z",
+            "content": "Dow Jones futures fell modestly after hours, along with S&amp;P 500 futures and Nasdaq futures. Nike (NKE) reported earnings Tuesday night with Tesla deliveries on tap before the open.\r\nThe stock mar\u2026 [+7360 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Biztoc.com"
+            },
+            "author": "aol.com",
+            "title": "Why Arm Holdings Stock Lost 5% on Tuesday",
+            "description": "Shares of Arm Holdings (NASDAQ: ARM) were heading lower on reports of disappointing early sales results from Apple's (NASDAQ: AAPL) iPhone 16, the new smartphone it just released that will include Apple Intelligence, its new artificial intelligence (AI) platf\u2026",
+            "url": "https://biztoc.com/x/f9226831b2c584d0",
+            "urlToImage": "https://biztoc.com/cdn/f9226831b2c584d0_s.webp",
+            "publishedAt": "2024-10-01T22:35:39Z",
+            "content": "Shares of Arm Holdings (NASDAQ: ARM) were heading lower on reports of disappointing early sales results from Apple's (NASDAQ: AAPL) iPhone 16, the new smartphone it just released that will include Ap\u2026 [+130 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Jeremy Bowman, The Motley Fool",
+            "title": "Why Arm Holdings Stock Lost 5% on Tuesday",
+            "description": "Sales are reportedly weak at a key partner.",
+            "url": "https://finance.yahoo.com/news/why-arm-holdings-stock-lost-221030152.html/",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo.png",
+            "publishedAt": "2024-10-01T22:10:30Z",
+            "content": "Shares of Arm Holdings (NASDAQ: ARM) were heading lower on reports of disappointing early sales results from Apple's (NASDAQ: AAPL) iPhone 16, the new smartphone it just released that will include Ap\u2026 [+2356 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investopedia"
+            },
+            "author": "Colin Laidley",
+            "title": "A New Month, Another Bout of Stock Market Volatility",
+            "description": "Stocks slumped at the start of a new month for the third consecutive time as market participants assessed the escalation of conflict in the Middle East and the possible fallout of a massive U.S. dockworkers strike.",
+            "url": "https://www.investopedia.com/new-month-another-bout-of-stock-market-volatility-vix-rises-8721425",
+            "urlToImage": "https://www.investopedia.com/thmb/r1QURMU48ja7h11qBxIzDVZAMUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-2173936165-2b502fbe8a2e474eb346b7e58c73485e.jpg",
+            "publishedAt": "2024-10-01T20:47:06Z",
+            "content": "<ul><li>Stocks slumped on Tuesday, making October the third consecutive month to start with a selloff.</li><li>Oil prices surged and traditional safe havens such as gold and Treasurys advanced as mar\u2026 [+2433 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thefly.com"
+            },
+            "author": null,
+            "title": "What You Missed On Wall Street On Tuesday",
+            "description": "See the rest of the story here.\n\nthefly.com provides the latest financial news as it breaks. Known as a leader in market intelligence, The Fly's real-time, streaming news feed keeps individual investors, professional money managers, active traders, and corpor\u2026",
+            "url": "https://thefly.com/permalinks/entry.php/id3991654/$ECON;SPX;SPY;USO;CVS;BA;PEP;JNJ;F;DIS;DIN;GD;META;AAPL;EBAY;JCI;LLY;APO;NFE;ARCO;INMD;ZIM;MCD;MKC;UNFI;PAYX;AYI;AMN-What-You-Missed-On-Wall-Street-On-Tuesday",
+            "urlToImage": "https://image.thefly.com/catalog/202112/img_1285.jpg",
+            "publishedAt": "2024-10-01T20:21:12Z",
+            "content": "Get caught up quickly on the top news and calls moving stocks with these five Top Five lists. \r\n1. STOCK NEWS: \r\n2. WALL STREET CALLS: \r\n3. AROUND THE WEB:\r\n<ul><li>The NLRB has accused Apple (AAPL) \u2026 [+811 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quartz India"
+            },
+            "author": "Rachel Dalloo",
+            "title": "Apple is being accused of \u2018illegally\u2019 violating workers rights by the U.S. labor board",
+            "description": "Tech giant Apple (AAPL) has been accused of fostering an illegal work environment and violating multiple efforts organized by employees to advocate for better wages and workplace conditions, according to the U.S. National Labor Relations Board.Read more...",
+            "url": "https://qz.com/u-s-labor-board-accuses-apple-of-illegal-workplace-vio-1851662141",
+            "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/97111f0b5bddb5072b9df5dfe4bbfaf5.jpg",
+            "publishedAt": "2024-10-01T18:53:00Z",
+            "content": "In This Story\r\nTech giant Apple (AAPL) has been accused of fostering an illegal work environment and violating multiple efforts organized by employees to advocate for better wages and workplace condi\u2026 [+1725 chars]"
+        }
+    ]
+}

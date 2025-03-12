@@ -1,0 +1,17 @@
+{
+    "P/E Ratio": "24.94",
+    "EPS": "2.43",
+    "Debt-to-Equity": 4.893856669962599,
+    "Current Ratio": null,
+    "ROE": "0.362",
+    "Profit Margin": 0.5353339787028074,
+    "Short-term MA": "167.3600",
+    "Long-term MA": "167.3600",
+    "Average Volume": "2600967",
+    "Current Volume": "2600967",
+    "Operating Cash Flow": "110543000000",
+    "Free Cash Flow": "99584000000",
+    "Cash Flow from Investing": "3705000000",
+    "Cash Flow from Financing": "-108488000000",
+    "Net Change in Cash": "5760000000"
+}
