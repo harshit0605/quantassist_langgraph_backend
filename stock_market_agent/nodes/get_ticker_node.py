@@ -20,7 +20,7 @@ def get_ticker_node(state):
         # Handle the case when the ticker is not found
         return {"error": "Ticker symbol could not be found for the given company name."}
 
-    return {'ticker' : tickers.stock_names[0]}
+    return {'ticker' : tickers.stock_names[0].dict()}
 
 if __name__ == "__main__":
     print(get_ticker_node({"query" : "Get me the latest financial statements for Apple and Microsoft"}))
