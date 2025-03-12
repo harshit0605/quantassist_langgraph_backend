@@ -20,7 +20,7 @@ def get_ticker_node(state):
     # Create a proper StockTicker object
     if hasattr(response, 'stock_names') and len(response.stock_names) > 0:
         stock = response.stock_names[0]
-        ticker = StockTicker(companyName=stock.company_name, tickerId=stock.ticker_id)
+        ticker = StockTicker(companyName=stock.companyName, tickerId=stock.tickerId)
         return {'ticker': ticker}
     else:
         return {"error": "No stock information found in the response."}
