@@ -17,7 +17,7 @@ from stock_market_agent.nodes.collect_market_conditions import collect_market_co
 from stock_market_agent.nodes.indicators_node import indicators_node
 
 from langchain_core.language_models.chat_models import BaseChatModel
-
+from langgraph.checkpoint.memory import MemorySaver
 # Develop a system to track each agent's performance over time, which could be used to adjust their influence on the final decision.
 
 def process_market_data(data: Dict[str, Any]) -> Dict[str, Any]:
@@ -109,4 +109,5 @@ def create_workflow_graph():
     graph.add_edge("meta_analysis_node", END)
     
 
-    return graph.compile()
+    within_thread_memory = MemorySaver()
+    return graph.compile(checkpointer=within_thread_memory,)
