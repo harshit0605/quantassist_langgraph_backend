@@ -32,7 +32,7 @@ def collect_fundamental_indicators(state):
 
     
     fundamental_indicators_tool = FundamentalIndicatorsTool(api_key=alphavantage_api_key)
-    fundamental_indicators = fundamental_indicators_tool.run(ticker.tickerId)
+    fundamental_indicators = fundamental_indicators_tool.run(ticker["tickerId"])
 
     # portfolio_data = PortfolioTool().run()
 

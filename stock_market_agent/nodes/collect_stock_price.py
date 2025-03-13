@@ -30,7 +30,7 @@ def collect_stock_price(state):
     # Use tools to collect data
     stock_price_tool = StockPriceTool(api_key=alphavantage_api_key)
 
-    price_info = stock_price_tool.run(ticker.tickerId)
+    price_info = stock_price_tool.run(ticker["tickerId"])
     # Parse the JSON response from the sentiment tool
 
     collected_data = {

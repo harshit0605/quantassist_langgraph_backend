@@ -38,13 +38,13 @@ def data_collection_node(state):
     # search_tool = DuckDuckGoSearchRun()
     fundamental_indicators_tool = FundamentalIndicatorsTool(api_key=alphavantage_api_key)
 
-    price_info = stock_price_tool.run(ticker.tickerId)
+    price_info = stock_price_tool.run(ticker["tickerId"])
     # Parse the JSON response from the sentiment tool
-    sentiment_info_json = news_sentiment_tool.run(ticker.companyName)
+    sentiment_info_json = news_sentiment_tool.run(ticker["companyName"])
     sentiment_info = json.loads(sentiment_info_json)
 
     # recent_news = search_tool.run(f"{ticker} stock recent news")
-    fundamental_indicators = fundamental_indicators_tool.run(ticker.tickerId)
+    fundamental_indicators = fundamental_indicators_tool.run(ticker["tickerId"])
 
     # portfolio_data = PortfolioTool().run()
 

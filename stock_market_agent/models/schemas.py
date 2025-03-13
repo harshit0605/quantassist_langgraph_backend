@@ -8,6 +8,14 @@ class StockTicker(BaseModel):
     companyName : str = Field(description="The name of the company mentioned in the query")
     tickerId : str = Field(description="The alphavantage API compatible ticker id associated with the stock")
 
+    class Config:
+        json_schema_extra = {
+            "example": {
+                "companyName": "Apple Inc.",
+                "tickerId": "AAPL"
+            }
+        }
+
 class Stocks(BaseModel):
     stock_names: List[StockTicker] = Field(description="The list of stock name and ticker ids mentioned in the user query")
 

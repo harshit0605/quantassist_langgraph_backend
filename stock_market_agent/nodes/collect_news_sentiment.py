@@ -29,7 +29,7 @@ def collect_news_sentiment(state):
     news_sentiment_tool = NewsSentimentTool(api_key=news_api_key)
 
     # Parse the JSON response from the sentiment tool
-    sentiment_info_json = news_sentiment_tool.run(ticker.companyName)
+    sentiment_info_json = news_sentiment_tool.run(ticker["companyName"])
     sentiment_info = json.loads(sentiment_info_json)
 
     collected_data = {
