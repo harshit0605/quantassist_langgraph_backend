@@ -26,6 +26,33 @@ class AgentAnalysis(TypedDict):
     agent: str
     analysis: AnalysisResult
 
+class DecisionBreakdown(TypedDict):
+    Buy: float
+    Hold: float
+    Sell: float
+
+class MarketAnalysis(TypedDict):
+    total_confidence: float
+    agent_weights: Dict[str, float]
+
+class DetailedAgentAnalysis(TypedDict):
+    agent: str
+    decision: str
+    confidence: float
+    weight: float
+    weighted_confidence: float
+    reasoning: str
+
+class FinalRecommendation(TypedDict):
+    decision: str
+    confidence: float
+
+class StockRecommendationReport(TypedDict):
+    final_recommendation: FinalRecommendation
+    decision_breakdown: DecisionBreakdown
+    market_analysis: MarketAnalysis
+    detailed_analyses: List[DetailedAgentAnalysis]
+
 class AgentState(MessagesState):
     """
     This is the state of the agent.
@@ -58,11 +85,12 @@ class AgentState2(CopilotKitState):
     portfolio_report: str
     # analyses: Optional[Annotated[list[AgentAnalysis], add]]
     analyses: Annotated[list[AgentAnalysis], add]
-    combined_weighted_analysis: str
+    combined_weighted_analysis: StockRecommendationReport
     market_conditions : Dict[str, str]
     final_prediction : FinalPrediction
     rule_results : Dict[str, Dict[str, Union[float, str]]]
     error : str
+    dry_run: bool = False
 
 @dataclass
 class ChartBuilderState(MessagesState):

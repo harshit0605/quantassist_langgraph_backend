@@ -2,6 +2,7 @@ import json
 import os
 import requests
 from langchain_core.tools import BaseTool
+from stock_market_agent.config.state import AgentState2
 
 class StockPriceTool(BaseTool):
     name: str = "Stock Price Tool"
@@ -12,7 +13,13 @@ class StockPriceTool(BaseTool):
     def __init__(self, api_key: str):
         super().__init__(api_key=api_key)
 
-    def _run(self, ticker: str) -> str:
+    def run(self, company: str, state: AgentState2 = None) -> str:
+        return self._run(company, state)
+
+    def _run(self, ticker: str, state: AgentState2 = None) -> str:
+        dry_run = state.get("dry_run", False) if state else False
+        dry_run= True
+        # print("dry run: ", dry_run)
         params = {
             "function": "GLOBAL_QUOTE",
             "symbol": ticker,
@@ -23,7 +30,7 @@ class StockPriceTool(BaseTool):
         os.makedirs(temp_data_folder, exist_ok=True)
         output_file_path = os.path.join(temp_data_folder, "stock_price_output.txt")
 
-        if os.path.exists(output_file_path):
+        if dry_run and os.path.exists(output_file_path):
             with open(output_file_path, "r") as f:
                 data = json.loads(f.read())
         else:

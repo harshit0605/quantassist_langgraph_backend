@@ -1,7 +1,7 @@
 import json
 from typing import Dict, Any
 from stock_market_agent.models.personas.financial_agent import AdaptiveWeightingSystem
-from stock_market_agent.config.state import AgentState2
+from stock_market_agent.config.state import AgentState2, StockRecommendationReport
 
 
 # def integrate_weighted_analyses(state: AgentState2, adaptiveWeightObj : AdaptiveWeightingSystem) -> Dict[str, Any]:
@@ -61,7 +61,7 @@ from stock_market_agent.config.state import AgentState2
 #         "combined_weighted_analysis": reasoning_summary
 #     }
 
-def integrate_weighted_analyses(state: AgentState2, adaptiveWeightObj: AdaptiveWeightingSystem) -> Dict[str, Any]:
+def integrate_weighted_analyses(state: AgentState2, adaptiveWeightObj: AdaptiveWeightingSystem) -> StockRecommendationReport:
     """
     Integrate multiple analyses with adaptive weighting to produce a final decision.
 
@@ -152,7 +152,7 @@ def integrate_weighted_analyses(state: AgentState2, adaptiveWeightObj: AdaptiveW
     )
 
     # Create a structured dictionary for JSON conversion
-    analysis_data = {
+    analysis_data:StockRecommendationReport = {
         "final_recommendation": {
             "decision": final_decision.upper(),
             "confidence": round(final_confidence, 2)
@@ -180,8 +180,8 @@ def integrate_weighted_analyses(state: AgentState2, adaptiveWeightObj: AdaptiveW
     }
 
     # Convert to JSON string with proper formatting
-    combined_weighted_analysis = json.dumps(analysis_data, indent=2)
+    # combined_weighted_analysis = json.dumps(analysis_data, indent=2)
     
     return {
-        "combined_weighted_analysis": combined_weighted_analysis
+        "combined_weighted_analysis": analysis_data
     }

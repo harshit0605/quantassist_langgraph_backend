@@ -13,9 +13,9 @@ from langchain_core.messages import HumanMessage, AIMessage
 from stock_market_agent.tools.portfolio_tool import PortfolioTool
 from stock_market_agent.utils.get_api_key import get_api_key
 from dotenv import load_dotenv
+from stock_market_agent.config.state import AgentState2
 
-
-def collect_stock_price(state):
+def collect_stock_price(state: AgentState2):
     print("...................In collect_stock_price node..................")
     # Load environment variables from .env file
     load_dotenv()
@@ -27,10 +27,11 @@ def collect_stock_price(state):
         raise ValueError("No ALPHA_VANTAGE API key found. Please set the ALPHA_VANTAGE_API_KEY environment variable.")
 
     print(alphavantage_api_key)
+    # print("Dry_run variable: ", state["dry_run"])
     # Use tools to collect data
     stock_price_tool = StockPriceTool(api_key=alphavantage_api_key)
 
-    price_info = stock_price_tool.run(ticker["tickerId"])
+    price_info = stock_price_tool.run(ticker["tickerId"], state)
     # Parse the JSON response from the sentiment tool
 
     collected_data = {

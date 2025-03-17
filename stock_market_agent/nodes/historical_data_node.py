@@ -14,9 +14,9 @@ def historical_data_node(state):
 
     # Use tools to collect data
     historical_data_tool = HistoricalDataTool()
-    historical_data = historical_data_tool.run(ticker["tickerId"])
+    historical_data = historical_data_tool.run(ticker["tickerId"], state)
     
     return {
-        "messages": state["messages"] + [AIMessage(content=historical_data)],
+        # "messages": state["messages"] + [AIMessage(content=historical_data)],
         "historical_data": historical_data
     }

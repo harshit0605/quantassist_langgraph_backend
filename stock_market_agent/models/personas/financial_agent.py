@@ -4,8 +4,14 @@ from langchain_core.output_parsers import PydanticOutputParser
 from langchain_core.language_models.chat_models import BaseChatModel
 
 from stock_market_agent.models.schemas import InvestmentDecision
-from stock_market_agent.config.state import AgentState
+from stock_market_agent.config.state import AgentState2
 
+class Response:
+            def __init__(self, decision, confidence, reasoning):
+                self.decision = decision
+                self.confidence = confidence
+                self.reasoning = reasoning
+                
 class LLMFinancialAgent:
     def __init__(self, 
             name: str, 
@@ -56,10 +62,11 @@ class LLMFinancialAgent:
             template=template
         )
 
-    def analyze(self, agent_state: AgentState) -> Dict[str, Any]:
+    def analyze(self, agent_state: AgentState2) -> Dict[str, Any]:
         print(f"...................In {self.name} node..................")
 
         collected_data_from_prev_node = agent_state.get("collected_data", None)
+        dry_run = agent_state.get("dry_run", False) if agent_state else False
         
         if collected_data_from_prev_node in [None, {}]:
             return {"analyses": []}
@@ -87,14 +94,8 @@ class LLMFinancialAgent:
             "market_data": market_data_str
         }
 
-        class Response:
-            def __init__(self, decision, confidence, reasoning):
-                self.decision = decision
-                self.confidence = confidence
-                self.reasoning = reasoning
-
-        test_mode=True
-        if test_mode:
+        # test_mode=True
+        if dry_run:
             response = Response(
                 decision="Hold",
                 confidence=0.6,

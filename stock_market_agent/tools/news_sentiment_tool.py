@@ -6,6 +6,8 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from pydantic import Field, PrivateAttr
 from typing import Literal
 
+from stock_market_agent.config.state import AgentState2
+
 class NewsSentimentTool(BaseTool):
     name: Literal["News Sentiment Tool"] = Field(default="News Sentiment Tool")
     description: Literal["This is an example"] = Field(default="Analyze recent news sentiment for a given company")
@@ -20,7 +22,12 @@ class NewsSentimentTool(BaseTool):
         # self.api_key = api_key
         self._analyzer = SentimentIntensityAnalyzer()
 
-    def _run(self, company: str) -> str:
+    def run(self, company: str, state: AgentState2 = None) -> str:
+        return self._run(company, state)
+
+    def _run(self, company: str, state: AgentState2) -> str:
+        dry_run = state.get("dry_run", False) if state else False
+        dry_run = True
         params = {
             "q": company,
             "sortBy": "publishedAt",
@@ -32,7 +39,7 @@ class NewsSentimentTool(BaseTool):
         os.makedirs(temp_data_folder, exist_ok=True)
         output_file_path = os.path.join(temp_data_folder, "news_sentiment_output.txt")
 
-        if os.path.exists(output_file_path):
+        if dry_run and os.path.exists(output_file_path):
             with open(output_file_path, "r") as f:
                 data = json.loads(f.read())
         else:

@@ -5,9 +5,27 @@ from PIL import Image
 import json
 import os
 
-
-# def main():
 workflow = create_workflow_graph()
+# def create_workflow(dry_run=False):
+#     workflow = create_workflow_graph()
+    
+#     # Define a custom invoke method that includes the dry_run flag
+#     original_invoke = workflow.invoke
+    
+#     def invoke_with_dry_run(inputs):
+#         # Add dry_run flag to the inputs
+#         if isinstance(inputs, dict):
+#             inputs["dry_run"] = dry_run
+#         return original_invoke(inputs)
+    
+#     # Replace the invoke method
+#     workflow.invoke = invoke_with_dry_run
+    
+#     return workflow
+
+# Create the default workflow instance
+# workflow = create_workflow()
+# def main():
 # result = workflow.invoke({"query": "Analyze Apple stock"})
 # print("Agent State:")
 

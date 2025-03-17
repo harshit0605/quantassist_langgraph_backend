@@ -20,4 +20,3 @@ uvicorn==0.34.0
 vaderSentiment==3.3.2
 vaderSentiment==3.3.2
 yfinance==0.2.40
-

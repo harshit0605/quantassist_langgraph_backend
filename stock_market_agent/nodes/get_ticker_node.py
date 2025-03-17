@@ -9,8 +9,21 @@ def get_ticker_node(state):
     
     print("...................In ticker node..................")
     # user_query = state["query"]
-    print(state["messages"][-1])
-    user_query = state["messages"][-1].content
+    dry_run = state.get("dry_run", False) if state else False
+    print("dry run: ", dry_run)
+    
+    print(state["messages"][-1].content)
+
+    # user_query = state["messages"][-1].content
+    user_query = None
+    for message in reversed(state["messages"]):
+        if hasattr(message, 'type') and message.type == 'human':
+            user_query = message.content
+            break
+    
+    if not user_query:
+        return {"error": "No user message found in the conversation."}
+    
     response = CompanyTickerTool().run(user_query)
 
     if "error" in response:

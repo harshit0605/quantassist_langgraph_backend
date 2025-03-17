@@ -26,7 +26,7 @@ class CompanyTickerTool(BaseTool):
     def _run(self, query: str) -> List[str]:
         prompt = f"""Given the user's query: '{query}', 
         <instructions>
-        1. identify the company names mentioned in the query
+        1. identify the company names mentioned in the user's query
         2. For each company, get the stock ticker associated with that company. The ticker id will be used in alphavantage API to get further information about the stock"""
 
         try:

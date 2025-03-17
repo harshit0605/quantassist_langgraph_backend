@@ -47,6 +47,7 @@ class MetaAnalysisLLM:
             ) -> Dict[str, Any]:
         
         print(f"...................In Meta analysis node..................")
+        dry_run = state.get("dry_run", False) if state else False
         market_data = state.get("collected_data",None)
         market_conditions = state.get("market_conditions", None)
         combined_weighted_analysis = state.get("combined_weighted_analysis", None)
@@ -67,10 +68,50 @@ class MetaAnalysisLLM:
         #     agent_analyses_str += f"Reasoning: {analysis['analysis']['reasoning']}\n"
         #     # agent_analyses_str += f"Weight: {analysis['weight']:.2f}\n"
 
+        combined_analysis_str = ""
+        if isinstance(combined_weighted_analysis, dict):
+            # Format final recommendation
+            if "final_recommendation" in combined_weighted_analysis:
+                fr = combined_weighted_analysis["final_recommendation"]
+                combined_analysis_str += f"Final Recommendation:\n- Decision: {fr.get('decision', 'N/A')}\n- Confidence: {fr.get('confidence', 0.0)}\n\n"
+            
+            # Format decision breakdown
+            if "decision_breakdown" in combined_weighted_analysis:
+                db = combined_weighted_analysis["decision_breakdown"]
+                combined_analysis_str += "Decision Breakdown:\n"
+                for decision, value in db.items():
+                    combined_analysis_str += f"- {decision}: {value}\n"
+                combined_analysis_str += "\n"
+            
+            # Format market analysis
+            if "market_analysis" in combined_weighted_analysis:
+                ma = combined_weighted_analysis["market_analysis"]
+                combined_analysis_str += "Market Analysis:\n"
+                combined_analysis_str += f"- Total Confidence: {ma.get('total_confidence', 0.0)}\n"
+                if "agent_weights" in ma:
+                    combined_analysis_str += "- Agent Weights:\n"
+                    for agent, weight in ma["agent_weights"].items():
+                        combined_analysis_str += f"  - {agent}: {weight}\n"
+                combined_analysis_str += "\n"
+            
+            # Format detailed analyses
+            if "detailed_analyses" in combined_weighted_analysis:
+                combined_analysis_str += "Detailed Analyses:\n"
+                for analysis in combined_weighted_analysis["detailed_analyses"]:
+                    combined_analysis_str += f"- Agent: {analysis.get('agent', 'N/A')}\n"
+                    combined_analysis_str += f"  Decision: {analysis.get('decision', 'N/A')}\n"
+                    combined_analysis_str += f"  Confidence: {analysis.get('confidence', 0.0)}\n"
+                    combined_analysis_str += f"  Weight: {analysis.get('weight', 0.0)}\n"
+                    combined_analysis_str += f"  Weighted Confidence: {analysis.get('weighted_confidence', 0.0)}\n"
+                    combined_analysis_str += f"  Reasoning: {analysis.get('reasoning', 'N/A')}\n\n"
+        else:
+            # Fallback to the original string if it's not a dict
+            combined_analysis_str = str(combined_weighted_analysis)
+
         input_data = {
             "market_data": market_data_str,
             "market_conditions": market_conditions_str,
-            "combined_weighted_analysis": combined_weighted_analysis
+            "combined_weighted_analysis": combined_analysis_str
         }
         
         
@@ -82,8 +123,7 @@ class MetaAnalysisLLM:
                 self.additional_insights = additional_insights
 
         response = None
-        test_mode = True
-        if test_mode:
+        if dry_run:
             # Return a dummy response for testing
             response = Response(
                 final_decision="Hold",
